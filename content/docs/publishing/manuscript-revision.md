@@ -49,7 +49,7 @@ Once you have drafted this, share and discuss it with your co-authors before sta
 
 Examples of Response to Reviewers:
 
-- [Response to reviewers](../point-by-point-response.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
+- [Response to reviewers](../point-by-point-response.pdf) for [Yenni et al. 2019](https://doi.org/10.1371/journal.pbio.3000125)
 
 ### Revisions to the manuscript
 
@@ -66,4 +66,4 @@ When you resubmit you will also submit a cover letter to the editor. This is dis
 
 Examples of Resubmission letters:
 
-- [Resubmission cover letter](../cover-letter-revision.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
+- [Resubmission cover letter](../cover-letter-revision.pdf) for [Yenni et al. 2019](https://doi.org/10.1371/journal.pbio.3000125)
