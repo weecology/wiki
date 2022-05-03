@@ -1,5 +1,5 @@
 
-## Weecology Lab Wiki
+## Weecology Wiki
 
 The weecology wiki is where we collaboratively document how to navigate life in the lab (and beyond) from choosing and pursuing a career path, to writing and reviewing papers, to using the high performance computing system and the printer.
 

@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Weecology Lab Wiki
+title: Weecology Wiki
 hero_media: book.svg
 design:
   background:
