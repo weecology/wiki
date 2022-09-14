@@ -1,3 +1,10 @@
+---
+title: "Create an orthomosaic in Agisoft"
+type: book
+summary: >
+  How to build a orthomosaic from raw UAV imagery
+---
+
 # Orthomosiac Guide
 
 Written by Ben Weinstein, September 13, 2022
