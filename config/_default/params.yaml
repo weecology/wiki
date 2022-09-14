@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/weecology/lab-manual'
+    url: 'https://github.com/weecology/wiki'
     content_dir: content
     branch: main
   comment:
