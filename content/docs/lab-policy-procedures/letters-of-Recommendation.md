@@ -11,7 +11,7 @@ One of Ethan & Morgan's jobs is writing letters of recommendation (or otherwise 
 
 ### References
 
-In cases where all that is required is contact information for references just send us a short message that tells us you're applying for the job and includes a link to the announcement. We'll use this if we get asked to provide a reference. Having it in our email is handy in case this happens on short notice. Make clear in the message that you've just listed us and that there is nothing for us to do unless contacted.
+In cases where all that is required is contact information for references just send us a short message in Slack that tells us you're applying for the job and includes a link to the announcement. We'll use this if we get asked to provide a reference. Make clear in the message that you've just listed us and that there is nothing for us to do unless contacted.
 
 ### Letters of recommendation
 
