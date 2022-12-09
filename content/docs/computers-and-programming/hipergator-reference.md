@@ -89,8 +89,12 @@ srundev --time 3:00:00 --mem 2GB
 To test out work involving a GPU you need to explicitly request a development node associated with a GPU. For many GPU tasks you may want a meaningful amount of memory.
 
 ```sh
-srun -p gpu --gpus=1 --constraint=cuda11 --mem 20GB --pty -u bash -i
+srun -p gpu --nodes=1 --gpus=a100:1 --mem 20GB --cpus-per-task=1 --pty -u bash -i
 ```
+
+To increase the number of GPUs increase the number after the colon following `a100`.
+
+To increase the number of CPUs increase the value for `--cpus-per-task`
 
 ## How do I know if its running?
 
