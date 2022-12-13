@@ -24,4 +24,5 @@ Assuming you're running Ubuntu. Install the cifs-utils package, create a folder 
 
     sudo apt-get install cifs-utils
     sudo mkdir /media/T
-    sudo mount -t cifs //ad.ufl.edu/ifas/wec/groups /media/T -o username=<your-ufid>
+    sudo mount -t cifs //ict-az2-fs11.server.ufl.edu/ifas-wec/groups/ /media/T/ -o username=<your-gatorlink>
+    
