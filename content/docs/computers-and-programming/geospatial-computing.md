@@ -67,6 +67,7 @@ Our most common usage is to split large rasters into horizontal strips with mana
 RASTER=myraster.tif
 OUTPUTDIR=outputdir
 WIDTH=$(gdalinfo -json $RASTER | jq -r .size[0])
+WIDTHPAD=$((WIDTH + 10)) # Padding prevents periodic inclusion of single pixel strip 
 HEIGHT=$(expr 1000000000 / $WIDTH)
-gdal_retile.py -ps $WIDTH $HEIGHT -targetDir $OUTPUTDIR $RASTER
+gdal_retile.py -ps $WIDTHPAD $HEIGHT -targetDir $OUTPUTDIR $RASTER
 ```
