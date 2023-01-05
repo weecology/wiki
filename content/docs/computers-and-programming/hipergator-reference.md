@@ -148,9 +148,9 @@ Our current allocations as of July 2019
 | blue         | `/blue`                 | 4TB   |
 | home         | `/home/<your_username>` | 20GB  |
 
+## Status
 
-
-***
+You can check the status of HiPerGator using the [Metrics Dashboard](https://metrics.rc.ufl.edu/)
 
 ## Best Practices
 
