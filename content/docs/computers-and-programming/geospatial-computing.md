@@ -71,3 +71,12 @@ WIDTHPAD=$((WIDTH + 10)) # Padding prevents periodic inclusion of single pixel s
 HEIGHT=$(expr 1000000000 / $WIDTH)
 gdal_retile.py -ps $WIDTHPAD $HEIGHT -targetDir $OUTPUTDIR $RASTER
 ```
+
+## Combining/merging rasters using gdal
+
+One way to combine rasters is to use the `gdal_merge.py` Python script bundled with `gdal`.
+We use LZW compression to reduce file sizes while ensuring that the resulting GeoTIFF can be used in all geospatial computing systems.
+
+```bash
+gdal_merge.py -co COMPRESS=LZW -o output_file.tif input_file_1.tif input_file_2.tif input_file_3.tif
+```
