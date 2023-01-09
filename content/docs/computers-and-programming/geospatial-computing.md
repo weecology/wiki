@@ -78,5 +78,9 @@ One way to combine rasters is to use the `gdal_merge.py` Python script bundled w
 We use LZW compression to reduce file sizes while ensuring that the resulting GeoTIFF can be used in all geospatial computing systems.
 
 ```bash
-gdal_merge.py -co COMPRESS=LZW -o output_file.tif input_file_1.tif input_file_2.tif input_file_3.tif
+gdal_merge.py -o output_file.tif input_file_1.tif input_file_2.tif input_file_3.tif
+gdal_translate -co COMPRESS=LZW -co PREDICTOR=2 -co BIGTIFF=YES output_file.tif compressed_file.tif
 ```
+
+We use this two command approach instead of including compression in the merge command because gdal_merge.py doesn't currently support BigTIFF creation correctly and many of our combined files are greater than the 4GB maximum for regular TIFFs.
+`PREDICTOR=2` produces more efficient compression in the presence of spatial autocorrelation, which we often have. 
