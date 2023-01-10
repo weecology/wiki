@@ -26,6 +26,13 @@ Python packages are often distributed using both PyPI and conda so you might nee
 
 ### PyPI
 
+#### Using the [PyPI Stats website](https://pypistats.org/)
+
+* PyPI Stats is easy and provides the last 6 months of data.
+* E.g., <https://pypistats.org/packages/deepforest>
+
+#### Using Google BigQuery
+
 * Setup a Google BigQuery account
 * Run a version of this query where with additional modifications as necessary
 
