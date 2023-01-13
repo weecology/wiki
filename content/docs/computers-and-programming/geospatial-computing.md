@@ -7,7 +7,24 @@ summary: " "
 
 ## Installation
 
-This commands on this page uses `gdal` and `jq`.
+The commands on this page use `gdal` and `jq`.
+
+### Conda
+
+You can install these packages on any operating system using conda/mamba.
+
+```sh
+mamba create -n my-gdal-env python=3 gdal jq
+```
+
+Then activate the environment every time you want to work with gdal.
+
+```sh
+mamba activate my-gdal-env
+```
+
+### Linux
+
 On Ubuntu these can be installed using:
 
 ```bash
