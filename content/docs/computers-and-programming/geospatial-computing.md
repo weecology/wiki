@@ -100,4 +100,33 @@ gdal_translate -co COMPRESS=LZW -co PREDICTOR=2 -co BIGTIFF=YES output_file.tif 
 ```
 
 We use this two command approach instead of including compression in the merge command because gdal_merge.py doesn't currently support BigTIFF creation correctly and many of our combined files are greater than the 4GB maximum for regular TIFFs.
-`PREDICTOR=2` produces more efficient compression in the presence of spatial autocorrelation, which we often have. 
+`PREDICTOR=2` produces more efficient compression in the presence of spatial autocorrelation, which we often have.
+
+## Removing alpha channels
+
+All of our code works with 3 band RGB rasters.
+Occasionally we accidentally produce a raster that contains a 4th alpha channel.
+This can be removed using GDAL.
+
+First check to make sure the bands you want are the first three bands (they pretty much always are):
+
+```bash
+gdalinfo four_band_ortho.tif
+```
+
+This should show something like the following info about channels:
+
+```bash
+Band 1 Block=1501x1 Type=Byte, ColorInterp=Red
+Band 2 Block=1501x1 Type=Byte, ColorInterp=Green
+Band 3 Block=1501x1 Type=Byte, ColorInterp=Blue
+Band 4 Block=1501x1 Type=Byte, ColorInterp=Alpha
+```
+
+The use `gdal_translate.py` to just keep the first three bands:
+
+```bash
+gdal_translate -b 1 -b 2 -b 3 four_band_ortho.tif three_band_ortho.tif
+```
+
+[Original source](https://support.skycatch.com/hc/en-us/articles/219178537-Removing-the-Alpha-Channel-from-Your-Orthotiff)
