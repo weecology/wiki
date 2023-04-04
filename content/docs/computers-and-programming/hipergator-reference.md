@@ -134,10 +134,19 @@ This is another space to store large files. The total allocation here is much bi
 `/home/your_username/`  
 Your home directory has 20GB storage space for your scripts, logs, etc. You should not be storing large amounts of data here.
 
+### Local scratch storage
+  
 `$TMPDIR`  
 `/blue` may be a bad place to store temporary cache files, especially if your program is generating 100's of small (<1mb) files. An alternative is to use a temporary directory setup by SLURM every time you run a job. This can be referenced with the environment variable `$TMPDIR` or `SLURM_TMPDIR`. Read more about this here: [Temporary Directories
 ](https://help.rc.ufl.edu/doc/Temporary_Directories).
 
+This storage is available on each worker (but not login nodes) but does not persist. For example, it can be referenced from python
+
+```
+import os
+os.env["TMPDIR"]
+```
+                                                                                                                          
 Note that for `/blue` and `/orange` if you are working on individual projects that are part of a larger effort you should work in a subdirectory  `/blue/ewhite/<your_username>/` and `/orange/ewhite/<your_username>/`.
 
 Our current allocations as of July 2019
