@@ -147,6 +147,10 @@ import os
 os.env["TMPDIR"]
 ```
                                                                                                                           
+To access this storage during a run, you can interactively ssh into the node and check out what's there. The folder is named /scratch/local/{job_pid}.
+  
+  
+                                                                                                                          
 Note that for `/blue` and `/orange` if you are working on individual projects that are part of a larger effort you should work in a subdirectory  `/blue/ewhite/<your_username>/` and `/orange/ewhite/<your_username>/`.
 
 Our current allocations as of July 2019
