@@ -17,6 +17,8 @@ The journal may have document templates (most commonly for Microsoft Word or LaT
 
 Using a citation manager that can format references using Citation Style Language (CSL) is highly recommended. Many styles can be found or modified from existing ones at [Zotero's CSL list](https://www.zotero.org/styles). Many Rmarkdown outputs accept CSL files to format references.
 
+[Use real headings](/docs/publishing/headings).
+
 ## Recommending reviewers & editors
 
 Journals typically ask you to recommend 3 or more people who could potentially review your manuscript. Those people may or may not end up being reviewers, and they might not even be asked, but providing a good list will help increase the chance that the review process starts quickly and that you get good feedback from relevant reviewers.
