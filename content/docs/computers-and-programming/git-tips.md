@@ -11,3 +11,5 @@ summary: >
 git switch main
 git branch --merged | egrep -v "(^\*|master|main|dev)" | xargs git branch -d
 ```
+
+Source: <https://stackoverflow.com/a/6127884/133513>
