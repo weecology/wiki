@@ -20,6 +20,19 @@ If that doesn't work try:
 zip -FF corrupted.zip --out fixed.zip
 ```
 
+If you receive an error message like:
+
+> zip error: Entry too big to split, read, or write (Poor compression resulted in unexpectedly large entry - try -fz)
+
+then:
+
+1. Make sure you have at least version 3.0 of `zip`
+2. Try adding `-fz` to the command
+
+```sh
+zip -FF -fz corrupted.zip --out fixed.zip
+```
+
 ## Increasing compression
 
 There is a tradeoff between how long it takes to compress something and how much smaller gets.
