@@ -23,6 +23,8 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -41,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 The contributors. This work is licensed under {license}'
+    notice: '© 2008-2023 The contributors. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: true
@@ -58,10 +60,8 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
@@ -77,6 +77,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
