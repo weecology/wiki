@@ -14,7 +14,7 @@ HiperGator gives the user access to very large processing/memory/storage. This i
 
 ## How do I access it?
 
-0. [Request an account](http://www.rc.ufl.edu/help/account-request/)
+0. [Request an account](https://gravity.rc.ufl.edu/access/request-account/)
 
 1. Connect with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](https://help.rc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
 
