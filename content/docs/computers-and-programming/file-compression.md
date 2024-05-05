@@ -1,10 +1,11 @@
 ---
 title: "File Compression Notes"
-type: book
 summary: " "
 ---
 
 ## Fixing a corrupted zip file
+
+### Using zip
 
 If you try to open a zip file and it won't unzip you can often fix it by rezipping the file ([source](https://superuser.com/questions/23290/terminal-tool-linux-for-repair-corrupted-zip-files)).
 
@@ -32,6 +33,25 @@ then:
 ```sh
 zip -FF -fz corrupted.zip --out fixed.zip
 ```
+
+### Using p7zip
+
+If none of this works try [p7zip](https://7-zip.org/), which can be installed using conda.
+
+```sh
+conda create -n p7zip python=3
+conda activate p7zip
+conda install -c bioconda p7zip
+```
+
+This version is pretty out of date, but much less out of date than the one in the HiperGator module system.
+The one in the HiperGator module is too old to solve the problems we've seen.
+
+```sh
+7za x corrupted.zip
+```
+
+Note that this will decompress into the current working directory not into `./corrupted/`
 
 ## Increasing compression
 

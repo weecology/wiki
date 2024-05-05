@@ -1,7 +1,6 @@
 ---
 title: "Computer Security & Privacy"
 linkTitle: "Security & Privacy"
-type: book
 summary: " "
 ---
 ## Password Managers

@@ -1,6 +1,5 @@
 ---
 title: "Way of weecology"
-type: book
 summary: >
   Lab philosophy
 ---

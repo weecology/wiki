@@ -1,7 +1,6 @@
 ---
 title: "SNRE Rules"
 linkTitle: "SNRE Rules"
-type: book
 summary: >
   Graduate school rules for students in SNRE
 weight: 4

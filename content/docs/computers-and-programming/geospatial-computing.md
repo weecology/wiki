@@ -1,7 +1,6 @@
 ---
 title: "Geospatial Computing from the Command Line"
 linkTitle: "Geospatial Command Line"
-type: book
 summary: " "
 ---
 
@@ -91,6 +90,8 @@ gdal_retile.py -ps $WIDTHPAD $HEIGHT -targetDir $OUTPUTDIR $RASTER
 
 ## Combining/merging rasters using gdal
 
+### Merging rasters
+
 One way to combine rasters is to use the `gdal_merge.py` Python script bundled with `gdal`.
 We use LZW compression to reduce file sizes while ensuring that the resulting GeoTIFF can be used in all geospatial computing systems.
 
@@ -101,6 +102,15 @@ gdal_translate -co COMPRESS=LZW -co PREDICTOR=2 -co BIGTIFF=YES output_file.tif 
 
 We use this two command approach instead of including compression in the merge command because gdal_merge.py doesn't currently support BigTIFF creation correctly and many of our combined files are greater than the 4GB maximum for regular TIFFs.
 `PREDICTOR=2` produces more efficient compression in the presence of spatial autocorrelation, which we often have.
+
+### Virtually combining rasters
+
+Instead of actually merging the rasters you can create a virtual raster in a vrt file.
+This file includes metadata on the positions of all of the rasters, which can be loaded into a GIS and viewed like a single raster.
+
+```bash
+gdalbuildvrt virtual_combined_raster.vrt *.tif
+```
 
 ## Removing alpha channels
 

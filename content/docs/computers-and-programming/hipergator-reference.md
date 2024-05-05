@@ -1,6 +1,5 @@
 ---
 title: "HiPerGator Reference"
-type: book
 summary: " "
 ---
 

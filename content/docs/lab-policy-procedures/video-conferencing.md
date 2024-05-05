@@ -1,6 +1,5 @@
 ---
 title: Video Conferencing
-type: book
 summary: >
   UF uses Zoom. We like it. Here's how to use it.
 ---

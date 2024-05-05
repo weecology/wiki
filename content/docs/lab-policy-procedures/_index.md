@@ -1,6 +1,5 @@
 ---
 title: "Lab Policies & Procedures"
-type: book
 weight: 4
 summary: >
   How we work together as a lab

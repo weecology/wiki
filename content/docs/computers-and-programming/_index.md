@@ -1,6 +1,5 @@
 ---
 title: "Computing"
-type: book
 weight: 4
 summary: >
   Advice and guidelines for programming, computers, and computational tools 

@@ -1,7 +1,6 @@
 ---
 title: "Career Advice from Others"
 linkTitle: "Career Advice"
-type: book
 summary: >
   Links to thoughts from others on careers and applying for jobs
 ---

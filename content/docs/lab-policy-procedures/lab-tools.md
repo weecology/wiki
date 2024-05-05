@@ -1,6 +1,5 @@
 ---
 title: Lab Tools
-type: book
 summary: >
   The standard set of tools we use in the lab for communication, coding, writing, etc.
 ---

@@ -1,6 +1,5 @@
 ---
 title: New member onboarding
-type: book
 summary: >
   An onboarding guide to help you get started in the group including information on lab philsophy, lab tools, and university resources
 weight: 1

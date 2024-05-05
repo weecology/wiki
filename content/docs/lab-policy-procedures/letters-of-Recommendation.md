@@ -1,6 +1,5 @@
 ---
 title: Letters of Recommendation
-type: book
 summary: >
   Yes, we'll write you a letter of rec. Yes, even though we're busy. Here's how to communciate with your advisor about them.
 ---

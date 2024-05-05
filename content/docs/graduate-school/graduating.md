@@ -1,7 +1,6 @@
 ---
 title: "Graduating"
 linkTitle: "Graduating"
-type: book
 weight: 4
 summary: >
   How to finish your MS or PhD at the University of Florida

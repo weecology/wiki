@@ -1,6 +1,5 @@
 ---
 title: Hurricane Preparedness
-type: book
 summary: >
   We are based in Florida. There are hurricances. Be ready for them.
 ---

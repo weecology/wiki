@@ -2,7 +2,6 @@
 title: "Career Paths"
 linkTitle: "Career Paths"
 date: 2017-01-05
-type: book
 summary: >
   Descriptions of possible career paths, their core skills, how to prepare for them, and weecologists to talk to.
 ---

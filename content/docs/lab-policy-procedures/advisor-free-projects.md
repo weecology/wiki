@@ -1,7 +1,6 @@
 ---
 title: Working on Projects Without Your Advisor
 linkTitle: Advisor Free Projects
-type: book
 summary: >
   Guidelines for projects that don't involve your advisor
 ---

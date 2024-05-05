@@ -1,7 +1,6 @@
 ---
 title: "Editing the Lab Website"
 linkTitle: "Lab Website"
-type: book
 summary: " "
 ---
 

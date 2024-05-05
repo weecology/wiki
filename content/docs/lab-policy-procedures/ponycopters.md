@@ -1,7 +1,6 @@
 ---
 title: "Working with Ponycopters"
 linkTitle: "Ponycopters"
-type: book
 summary: >
   The secret to success.
 ---

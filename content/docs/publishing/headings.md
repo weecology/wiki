@@ -1,6 +1,5 @@
 ---
 title: "Headings"
-type: book
 summary: >
   How and why to use headings when writing
 ---

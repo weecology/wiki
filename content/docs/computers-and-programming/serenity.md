@@ -1,7 +1,6 @@
 ---
 title: "Lab Server - Serenity"
 linkTitle: "Lab Server"
-type: book
 summary: >
   How to access and work with the lab server
 ---

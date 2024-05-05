@@ -1,6 +1,5 @@
 ---
 title: "Defending"
-type: book
 weight: 4
 summary: >
   How to defend your thesis/dissertation

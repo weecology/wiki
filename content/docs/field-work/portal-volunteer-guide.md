@@ -1,6 +1,5 @@
 ---
 title: Portal Volunteer Guide
-type: book
 summary: " "
 ---
 

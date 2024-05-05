@@ -1,7 +1,6 @@
 ---
 title: "Presentations (Talks, Posters, etc.)"
 linkTitle: "Presentations"
-type: book
 weight: 4
 summary: >
   How to present projectss you've been working on to others.
