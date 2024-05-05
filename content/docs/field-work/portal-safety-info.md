@@ -1,6 +1,5 @@
 ---
 title: Portal Safety
-type: book
 summary: " "
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Social Events
-type: book
 summary: >
   Guidelines for lab social events
 ---

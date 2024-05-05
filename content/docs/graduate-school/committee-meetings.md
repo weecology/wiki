@@ -1,7 +1,6 @@
 ---
 title: "Committee Meetings"
 linkTitle: "Committee Meetings"
-type: book
 summary: >
   How to schedule and run a committee meeting
 weight: 4

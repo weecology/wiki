@@ -1,6 +1,5 @@
 ---
 title: "Rodent images"
-type: book
 summary: >
   Rodent silhouette images for use in publications, etc.
 ---

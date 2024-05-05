@@ -1,6 +1,5 @@
 ---
 title: "Parallelizing Code in R"
-type: book
 summary: " "
 ---
 

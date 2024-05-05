@@ -1,6 +1,5 @@
 ---
 title: "Accessing the T-drive"
-type: book
 summary: " "
 ---
 

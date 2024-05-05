@@ -1,6 +1,5 @@
 ---
 title: "Rental Cars"
-type: book
 summary: >
   Where and how to rent cars for University business
 weight: 4

@@ -1,7 +1,6 @@
 ---
 title: Interviewing Propspective Lab Members
 linkTitle: Lab Interviews
-type: book
 summary: >
   How to participate in interviews for positions in the lab
 ---

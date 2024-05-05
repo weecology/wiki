@@ -1,6 +1,5 @@
 ---
 title: PhD Milestones
-type: book
 summary: >
   Tracking progress through your PhD
 ---

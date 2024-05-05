@@ -1,6 +1,5 @@
 ---
 title: "Globus for file transfer"
-type: book
 summary: >
   How to transfer large files between your computer and the HiPerGator
 ---

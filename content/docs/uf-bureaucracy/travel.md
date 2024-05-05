@@ -1,7 +1,6 @@
 ---
 title: "Travel"
 linkTitle: "Travel"
-type: book
 summary: >
   The many and varied rules and forms for traveling for research and conferences
 weight: 4

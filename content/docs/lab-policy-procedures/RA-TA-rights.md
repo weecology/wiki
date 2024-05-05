@@ -1,6 +1,5 @@
 ---
 title: "RA/TA Rights"
-type: book
 summary: >
   A summary of rights guaranteed by the graduate student union contract
 ---

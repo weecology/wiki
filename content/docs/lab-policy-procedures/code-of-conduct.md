@@ -1,6 +1,5 @@
 ---
 title: Code of Conduct
-type: book
 summary: >
   The Code of Conduct governing conduct of lab members
 ---

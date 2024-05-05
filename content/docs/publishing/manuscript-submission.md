@@ -1,7 +1,6 @@
 ---
 title: "Submitting a manuscript"
 linkTitle: "Manuscript submission"
-type: book
 summary: >
   How to submit a manuscript to a journal
 weight: 2

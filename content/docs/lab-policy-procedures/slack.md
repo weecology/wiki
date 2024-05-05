@@ -1,6 +1,5 @@
 ---
 title: Slack
-type: book
 summary: >
   Some general guidelines for using Slack for communication within the group
 ---

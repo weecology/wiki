@@ -1,6 +1,5 @@
 ---
 title: "RStudio on Serenity"
-type: book
 summary: >
   How to use RStudio remotely on the lab server
 ---

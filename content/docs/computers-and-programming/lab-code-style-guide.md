@@ -1,7 +1,6 @@
 ---
 title: "Lab Style Guide for Code"
 linkTitle: "Code Style Guide"
-type: book
 summary: " "
 ---
 

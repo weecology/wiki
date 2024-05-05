@@ -1,6 +1,5 @@
 ---
 title: "Honors Thesis"
-type: book
 summary: >
   Information on writing an honors thesis
 weight: 4

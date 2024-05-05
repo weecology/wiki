@@ -1,6 +1,5 @@
 ---
 title: WEC Staff
-type: book
 summary: >
   Who to talk to about what for departmental staff needs
 ---

@@ -1,7 +1,6 @@
 ---
 title: "WEC Rules"
 linkTitle: "WEC Rules"
-type: book
 summary: >
   Graduate school rules for students in SNRE
 weight: 4

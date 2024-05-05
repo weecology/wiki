@@ -1,7 +1,6 @@
 ---
 title: "Using tensorflow and Jupyter on HiPerGator"
 linkTitle: "HiPerGator - Tensorflor & Jupyter"
-type: book
 summary: " "
 ---
 

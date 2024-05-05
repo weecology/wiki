@@ -1,7 +1,6 @@
 ---
 title: "Collaborating Using Git & GitHub"
 linkTitle: "Git - Collaboration"
-type: book
 summary: " "
 ---
 

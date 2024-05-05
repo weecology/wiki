@@ -1,7 +1,6 @@
 ---
 title: "Workflow Tools - snakemake & targets"
 linkTitle: "Workflow Tools"
-type: book
 summary: " "
 ---
 

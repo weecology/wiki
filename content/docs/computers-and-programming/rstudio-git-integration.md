@@ -1,7 +1,6 @@
 ---
 title: "Using Git From RStudio"
 linkTitle: "RStudio + Git"
-type: book
 summary: " "
 ---
 

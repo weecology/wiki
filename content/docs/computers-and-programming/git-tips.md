@@ -1,6 +1,5 @@
 ---
 title: "Git Tips"
-type: book
 summary: >
   Tips and snippets for doing useful things in git
 ---

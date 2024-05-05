@@ -26,7 +26,6 @@ In both cases when you are done editing add a descriptive commit message at the 
 ```yaml
 ---
 title: "Submitting a manuscript"
-type: book
 summary: >
   How to submit a manuscript to a journal
 ---
@@ -44,7 +43,6 @@ summary: >
 ```
 ---
 title: "Career Guidance"
-type: book
 summary: >
   What career is right for you and how do you get there 
 ---

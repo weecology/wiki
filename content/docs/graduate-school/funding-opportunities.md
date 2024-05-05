@@ -1,7 +1,6 @@
 ---
 title: "Graduate Funding Opportunities"
 linkTitle: "Funding Opportunities"
-type: book
 weight: 4
 summary: >
   Fellowship and grant opportunities for graduate students

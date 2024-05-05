@@ -1,7 +1,6 @@
 ---
 title: "Python - Package Documentation"
 linkTitle: "Python - Package Docs"
-type: book
 summary: " "
 ---
 
