@@ -10,7 +10,7 @@ sections:
   - block: hero
     content:
       title: Weecology's Wiki
-      text: Collaborative documentation for how to navigate life in the lab (and beyond) from how to write and review papers to how to connect to the printer
+      text: Collaborative documentation for how to navigate life in the lab (and beyond)
       primary_action:
         text: Browse the wiki
         url: /docs/
