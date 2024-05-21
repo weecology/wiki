@@ -9,7 +9,7 @@ weight: 1
 
 This onboarding checklist is designed to help you get up to speed and integrated with our group. It is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab-wiki pages, and linked to from here. It is not perfect. If you get stuck or confused, make sure to reach out to someone! Good people to contact probably depend on what exactly you’re confused about, but here are some suggestions:
 
-1. the newest member of the lab group you are joining has probably recently struggled with whatever you are struggling with.
+1. The newest member of the lab group you are joining has probably recently struggled with whatever you are struggling with.
 2. Glenda Yenni. She knows everything.
 3. Computer or Software related? Henry Senyondo is a good bet!
 4. Ethan or Morgan (we’re always here to help).
