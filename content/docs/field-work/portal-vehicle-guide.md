@@ -3,15 +3,17 @@ title: Portal Vehicle Guide
 summary: " "
 ---
 
-The field vehicle is a Toyota Tundra.
+The field vehicle is a 2015 Toyota Tundra.
 
 Motor Pool vehicle number 5277.
+
+A little maintenance and preparation goes a long way. Once you leave Tucson, you're on a tight schedule to get everything done, and services get thinner until they're basically nonexistent. We have had no luck getting a tow truck to come to the site. There are lots of capable folks around Portal, but organizing help will burn a day or more. And take care to avoid avoidable disasters - take good care of the battery, don't leave the accessories on without turning the truck on, watch your fuel gauge, hang the keys in the same place in the ramada every time so you don't lock them in the truck, don't drive excessively fast on the dirt road so you don't pop a tire or rattle something loose.
 
 ### Monthly Maintenance
 
 * Before you leave the parking lot, do a 'walk-around.' Deal with any issues before you leave Tucson. If you're already on your way, Wilcox is another good place to stop.
   - Check for (new) dents/scratches
-  - Check the tires - are they low? is the tread wearing thin?
+  - Check the tires, including the spare - are they low? is the tread wearing thin?
   - Check the headlights/taillights/running lights
   - Note how the vehicle starts - does it seem slow? does it sound wierd?
   - Brakes - do they seem sluggish or noisy?
@@ -19,12 +21,12 @@ Motor Pool vehicle number 5277.
   - Windshield wipers - these are safety equipment! And they're cheap to replace, especially compared to the rest of the truck. If they start to be less-than-perfect, get them replaced ASAP at AutoZone/Napa/etc.
 * Refill out of stock or expired items in the first aid kit
 * Jumper cables are under the back seat. Use another vehicle if you have one available, otherwise use the:
-* Jumpstarter - this is a big red box that lives in the truck. You can use it to jumpstart the battery if it has recently died and the battery is healthy. Keep the jumpstart battery healthy by charging it in the hotel room whenever you get a chance.
+* Jumpstarter - this is a big red box that lives in the truck. You can use it to jumpstart the battery if it has recently died and the battery is healthy. Keep the jumpstart battery healthy by charging it in a hotel room whenever you get a chance.
 * Before you head back to Tucson, check for rodents trying to make a home in the truck.
 
 ### Tool Kit
 
-A tool kit lives in the bed of the truck. Feel free to stock it with whatever you need, and put it on your P Card (eg for repairing cattle fence, ramada, trap boxes, plot fences):
+A tool kit lives in the bed of the truck. Feel free to stock it with whatever you need, and put it on your P Card (eg for repairing cattle fence, ramada, trap boxes, plot fences).
 
 ### First aid kit
 
