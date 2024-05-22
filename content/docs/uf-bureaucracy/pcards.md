@@ -73,7 +73,7 @@ Email the receipt and the following info to Dan Deep at WECFiscal@ifas.ufl.edu.
   * Date: 
   * Vendor: 
   * Items: 
-  * Project: see [Accounts](https://github.com/weecology/lab-wiki/wiki/Accounts )for list of project numbers
+  * Project: 
   * Amount: 
   * Benefit to project: 
 
@@ -87,7 +87,7 @@ Email the receipt and the following info to Dan Deep at WECFiscal@ifas.ufl.edu.
 
 Did you lose your receipt? Sigh. Proceed to step 5.
 
-5) Uh, I lost my receipt. 
+1) Uh, I lost my receipt. 
 
 > People will be unhappy with you but it is not the end of the world. You need to fill out this [form](http://www.wec.ufl.edu/resources/fiscal/Replacement_Receipt_Form_2009-08.doc)  
 > The form requires your supervisor (Ethan or Morgan) to sign it. You will receive the stank eye from a variety of people. You will survive. 

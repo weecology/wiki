@@ -36,7 +36,7 @@ A lot of info linked to is from a specific point of view, or has intrinsic biase
 
 ### Postdocs
 
-There is some general info on finding jobs and asking questions on [this page](https://github.com/weecology/lab-wiki/wiki/Post-doc-advice).
+There is some general info on finding jobs and asking questions on [this page](/docs/career-guidance/applying-for-postdocs).
 
 ## Non-Academic
 

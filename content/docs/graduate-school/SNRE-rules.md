@@ -14,4 +14,4 @@ The SNRE forms say that 50% of your committee cannot be from the same department
 
 ## Qualifying Exames
 
-Quals can take whatever format you and your committee decides. There is no formal guide on this, but a handbook of tips was put out.  [SNRE Quals](https://github.com/weecology/lab-wiki/raw/master/uploads/SNRE_quals_tips.pdf)
+Quals can take whatever format you and your committee decides. There is no formal guide on this, but there is some language about them in the [SNRE Student Guide](https://snre.ifas.ufl.edu/media/snreifasufledu/docs/pdf/SNRE-Graduate-Student-Guide-2023-2024.pdf)
