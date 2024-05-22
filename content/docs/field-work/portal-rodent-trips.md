@@ -14,7 +14,7 @@ summary: " "
 5. Book flights and lodging for all non-Tucson based field crew members using [UFGO](https://www.concursolutions.com/home.asp).
 6. (*Optional*) A week before travel, reach out to volunteers to get food/drink requests and order groceries online (e.g., Walmart), and just do a pick-up the day you drive down to the site.
 7. Pick up field truck in the [long-term parking lot](https://airportparkingtucson.com/location/lot-2/). Use the PCard to pay for it.
-8. (*Optional*) Fill water containers (in Watermill Express or other refilling stations) and get gas (You might also want to grab logs in gas stations during the winter).
+8. (*Optional*) Fill water containers (in Watermill Express or other refilling stations) and get gas (You might also want to grab logs in gas stations during the winter)
    
 ## Rodent Census 
 
@@ -53,6 +53,7 @@ We conduct plant census trips twice a year: Once in the winter (around late Marc
 
 ## Post-trip Duties: 
 
+* Check millet supply. If low, schedule a trip to a pet store. [OK Feed and Pet Supply](https://okfeedaz.com/) sells a 50 lbs bag of white millet for ~$30. If shop is closed (usually on Sundays they are), you can buy bird feed in Walmart. Just choose those that do not have big seeds that can get stuck in the traps. This [brand](https://www.walmart.com/ip/Wild-Harvest-Daily-Blend-Nutrition-Diet-Bird-Food-for-Parakeet-Canary-and-Finch-10-Pounds/345577090?wmlspartner=wlpa&selectedSellerId=0&wl13=1291&gclsrc=aw.ds&adid=22222222277345577090_161193766053_21214199653&wl0=&wl1=g&wl2=c&wl3=697173827980&wl4=pla-2300760861495&wl5=9011703&wl6=&wl7=1013509&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=345577090&veh=sem_LIA&gad_source=4&gclid=CjwKCAjwr7ayBhAPEiwA6EIGxCRfWDCR3CwgR7udLh3-Nypd_uB5nQVq1waYlxJkbLhA3ko5RnFdvxoCTqUQAvD_BwE) works fine. Three 10lb bags are plenty enough for 1 weekend of trapping. Use PCard to pay for it. 
 * Clean inside of field truck, and make sure cooler is drained. Keep the lid slightly ajar and crack open window of the bed of the truck to to vent it. Set-up the solar panel so that the battery gets charged. Place the solar panel in the dashboard horizontally and plug the wire to the GoalZero battery. If you are staying in a hotel before heading out, bring the battery and charge it inside the hotel room but make sure you bring it back to the truck before you leave. 
 * Drop off field truck at the [long-term parking lot](https://airportparkingtucson.com/location/lot-2/). Remember to take a photo of the stub/card they give you in the free shuttle. 
 * Submit receipts of PCard purchases (lodging, baggage, fuel, field gear, trapping supplies, etc.) using the [PCard Receipt Submision Form](https://wec.ifas.ufl.edu/resources/ufgo-pcard-forms/)
