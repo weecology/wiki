@@ -72,6 +72,11 @@ Annual saftey inspections are required by [UF Motor Pool](https://www.facilities
 
 The inspection checklist provided by Desert Toyota with your invoice works for this. Email it to motorpool@facilitiesservices.ufl.edu.
 
+### AZ Collecting Permit 
+
+Morgan will be issued an AZ Collecting Permit each year, to allow trapping rodents. This should live in the truck.
+If you don't get one for the new year, ask Morgan.
+
 ### Registration
 
 A sticker should be sent to Morgan every year. If it's out of date, ask Morgan.
