@@ -8,7 +8,7 @@ Slack is Weecology's internal communication system. Think of it as an email/text
 
 For Weecology specific information and Slack etiquette tips, read on!
 
-1. Slack is official communication. This means it is subject to both the [Lab Code of Conduct](https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct) and the [State of Florida Sunshine Laws](https://ufcn.urel.ufl.edu/email/email.html). Fun things can still happen on here (like the Hao-needs-a-dog channel), just remember that this is still offically Weecology space, just like being physically in the lab.
+1. Slack is official communication. This means it is subject to both the [Lab Code of Conduct](/docs/lab-policy-procedures/code-of-conduct/) and the [State of Florida Sunshine Laws](https://ufcn.urel.ufl.edu/email/email.html). Fun things can still happen on here (like the Hao-needs-a-dog channel), just remember that this is still offically Weecology space, just like being physically in the lab.
 2. You may join any Weecology channel even if you are not part of that group. Want to know a little more about what the forecasting group is doing? Or Everglades? It is 100% fine to subscribe and listen in. 
 3. Maybe don't subscribe to all of them, though. Information overload can make it hard to winnow signal from noise. Even Ethan and Morgan don't subscribe to all the channels.
 4. You can direct message (DM) anyone in the lab if you have things to chat with that are only relevant to that person. You don't need to do all communication through a channel. DM'ing can especially be a good way to contact Ethan and Morgan, to circumvent their full email inboxes. 

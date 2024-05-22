@@ -123,7 +123,7 @@ Newer packages are available which either deal with MPI in the background for yo
 ## Other considerations and important points
 The Research Computing group has a [wiki on HiperGator usage](https://help.rc.ufl.edu/doc/UFRC_Help_and_Documentation).  
 
-Some common tasks and scripts are outlind in the [HiPerGator Reference Guide](/lab-wiki/hipergator-reference-guide/)
+Some common tasks and scripts are outlind in the [HiPerGator Reference Guide](/docs/computers-and-programming/hipergator-reference/)
 
 **Login Node**: When you sign into the HPC there is a single landing server which you’ll start on. It’s important to never run actual scripts on this initial server. It should be used to submit jobs, request development nodes or interactive sessions, or transfer data in or out.  
 

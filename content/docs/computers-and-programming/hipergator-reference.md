@@ -21,7 +21,7 @@ Need help with command line? A good tutorial is available at [Software Carpentry
 
 ![](s=100)
 
-<img src="https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png" height="400">
+<img src="/docs/computers-and-programming/hipergator-login.png" height="400">
 
 
 ## How do I run a job?
