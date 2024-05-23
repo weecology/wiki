@@ -7,7 +7,7 @@ weight: 1
 
 [This page is always a Work in Progress] Welcome to Weecology! We are super excited that you’re joining us. (We only take people into our group that we are super excited about!).
 
-This onboarding checklist is designed to help you get up to speed and integrated with our group. It is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab-wiki pages, and linked to from here. It is not perfect. If you get stuck or confused, make sure to reach out to someone! Good people to contact probably depend on what exactly you’re confused about, but here are some suggestions:
+This onboarding checklist is designed to help you get up to speed and integrated with our group. It is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab wiki pages, and linked to from here. It is not perfect. If you get stuck or confused, make sure to reach out to someone! Good people to contact probably depend on what exactly you’re confused about, but here are some suggestions:
 
 1. The newest member of the lab group you are joining has probably recently struggled with whatever you are struggling with.
 2. Glenda Yenni. She knows everything.
@@ -40,7 +40,7 @@ If you are a graduate student, there is a wealth of (ever-changing) information 
 
 ## Contact Info
 
-[Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)
+Find Emergency contact info pinned on the wiki.
 
 For correspondence, you can use the [WEC office contact info](https://wec.ifas.ufl.edu/about-wec/contact-information/).
 
@@ -93,7 +93,7 @@ For correspondence, you can use the [WEC office contact info](https://wec.ifas.u
 #### Explore and Get to Know Folks
 
 - [ ] Look at the Personnel Page on the Weecology website. Is there anyone on the active list that you haven’t met yet? Contact them and say hi. Maybe set up a videomeeting or a coffee/tea/water break to chat.
-- [ ] Browse the [Lab-Wiki](https://wiki.weecology.org) and read through the sidebar. Read at least one page not linked to in the onboarding guide
+- [ ] Browse the [Lab Wiki](https://wiki.weecology.org) and read through the sidebar. Read at least one page not linked to in the onboarding guide
 
 #### Set Up Your Computer
 
@@ -109,7 +109,7 @@ For correspondence, you can use the [WEC office contact info](https://wec.ifas.u
     - [ ] Search the [lab wiki](https://wiki.weecology.org) for Python tips and tricks.
 - [ ] Install Git. Regardless of programming language you chose, do this. Git is the version control system we use for software and allows you to move things from your computer to GitHub. Follow the instructions on [Ethan’s course page](http://datacarpentry.org/semester-biology/computer-setup/) under the section “Git”. It has instructions for all three operating systems.
 - [ ] Set up the link between your IDE and GitHub
-    - [ ] [RStudio user instructions](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-and-GitHub-integration)
+    - [ ] [RStudio user instructions](https://wiki.weecology.org/docs/computers-and-programming/rstudio-git-integration/)
     - [ ] Visual Studio Code Users: Talk to Henry!
 - [ ] [Install Zotero](https://www.zotero.org/download/). This is the [reference manager](https://www.aje.com/arc/reference-manager-software-what-it-and-what-can-it-do/) preferred in the lab. It syncs with both Google Docs and Word. And is less likely to get into nasty fights with DropBox if you keep all your PDFs there.
     - [ ] Optional: You can also install the [zotero connector](https://www.zotero.org/download/connectors) which is a browser plugin that allows you to download articles being viewed in your browser directly to your zotero library
@@ -117,7 +117,7 @@ For correspondence, you can use the [WEC office contact info](https://wec.ifas.u
     - [ ] DropBox: is commonly used in the lab and has a [free account](https://www.dropbox.com/basic) with up to 2 GB of storage. Staff can have a free account with more storage [through UF](https://it.ufl.edu/services/dropbox-for-education).
     - [ ] OneDrive: students also have access to “unlimited” storage on UF’s [OneDrive](https://cloud.it.ufl.edu/collaboration-tools/office-365/).
 - [ ] Set up your computer to print to the lab printer. The lab printer is located in room 015 and accessible from the UFL network at 10.242.89.51. You may need to [download and install drivers](https://support.hp.com/us-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514) before adding it as a printer in order for it to function properly.
-- [ ] Set up [access to the T: drive](https://github.com/weecology/lab-wiki/wiki/Accessing-the-T:-drive). This is a shared drive for the lab, and can be used to store large files associated with your project.
+- [ ] Set up [access to the T: drive](https://wiki.weecology.org/docs/computers-and-programming/t-drive/). This is a shared drive for the lab, and can be used to store large files associated with your project.
 - [ ] If the UF VPN is not already on your computer, install the [Cisco AnyConnect VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/). You'll need this to do literature searches from off campus.
 
 Congratulations! You have gotten yourself prepared to start working with the group! You’re now ready for Stage 2 of Onboarding: Engaging with the Science and Tools.
@@ -158,7 +158,7 @@ Congratulations! You have gotten yourself prepared to start working with the gro
   - [ ] Start a PR to add your changes
   - [ ] Ask Henry for help if you need it
 - [ ] Identify a new page the lab wiki needs or a major change to an existing page (i.e. is there info you felt would be better moved onto one page? Something that should be added to the onboarding process? A page you wish existed?).
-  - [ ] Create an issue in the [Lab Wiki](https://github.com/weecology/lab-wiki) Repo that explains your proposed change/addition.
+  - [ ] Create an issue in the [Lab Wiki](https://github.com/weecology/wiki) Repo that explains your proposed change/addition.
 
 ### Wrap-up
 
