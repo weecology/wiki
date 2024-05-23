@@ -583,3 +583,53 @@ if(grepl("ufhpc", nodename)) {
 ## Using RStudio on the hipergator
 
 See the main Wiki page here on running gui programs. https://help.rc.ufl.edu/doc/GUI_Programs#Start_a_GUI_Session_on_HiPerGator
+
+## Using VSCODE on hipergator
+
+Vscode is a great development environment for many languages (python, java, bash), and allows powerful integration with github copilot and other debugging tools. The docs on hipergator [hint](https://help.rc.ufl.edu/doc/SSH_Using_VS_Code) at how to do this, but don't make it clear how to check out a node and develop with those resources. We can use [vscode tunnels](https://code.visualstudio.com/docs/remote/tunnels) to do this easily. 
+
+Start by creating a SLURM script to get a development node. In this case, I want a GPU node.
+
+1. 
+```
+(base) [b.weinstein@login11 ~]$ cat tunnel.sh
+#!/bin/bash
+#SBATCH --job-name=tunnel   # Job name
+#SBATCH --mail-type=END               # Mail events
+#SBATCH --mail-user=benweinstein2010@gmail.com  # Where to send mail
+#SBATCH --account=ewhite
+#SBATCH --nodes=1                 # Number of MPI ran
+#SBATCH --cpus-per-task=10
+#SBATCH --mem=70GB
+#SBATCH --time=12:00:00       #Time limit hrs:min:sec
+#SBATCH --output=/home/b.weinstein/logs/tunnel.out   # Standard output and error log
+#SBATCH --error=/home/b.weinstein/logs/tunnel.err
+#SBATCH --partition=gpu
+#SBATCH --gpus=1
+
+module load vscode
+export XDG_RUNTIME_DIR=${SLURM_TMPDIR}; code tunnel
+```
+2. Submit the job and view the logs
+```
+(base) [b.weinstein@login11 ~]$ sbatch tunnel.sh
+(base) [b.weinstein@login11 ~]$ cat /home/b.weinstein/logs/tunnel.out
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+[2024-05-23 11:56:57] info Using Github for authentication, run `code tunnel user login --provider <provider>` option to change this.
+To grant access to the server, please log into https://github.com/login/device and use code 3390-CCD9
+```
+
+3. Go to https://github.com/login/device and authenticate with the code. You will see the hipergator logs change and successfully connect. 
+
+4. Go to your local vscode instance, active the 'remote explorer' extension and click on 'tunnels'. You will see the hipergator tunnel listed.
+
+<img width="972" alt="image" src="https://github.com/weecology/wiki/assets/1208492/6fc30817-5e84-4350-bebf-be6318ebbc69">
+
+Success! Now you are the GPU node and can debug and run with those resources!
+
