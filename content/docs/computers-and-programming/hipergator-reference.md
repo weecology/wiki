@@ -489,23 +489,6 @@ Opening your browner, go to localhost:8888
 
 and viola, we are navigating hipergator from the confines of our own laptop.
 
-### Tensorflow and conda env
-
-To make use of the GPU machine learning environment, but also have access to your packages, creating a conda env with all your needs except tensorflow and keras and then add them to the python path after loading the tensorflow module.
-
-```
-ml git
-ml gcc
-ml geos
-ml tensorflow
-export PATH=${PATH}:/home/b.weinstein/miniconda/envs/DeepLidar/bin/
-export PYTHONPATH=${PYTHONPATH}:/home/b.weinstein/miniconda/envs/DeepLidar/lib/python3.6/site-packages/
-echo $PYTHONPATH
-
-/home/b.weinstein/DeepLidar
-python train.py --mode train
-```
-
 ## Support
 
 [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
