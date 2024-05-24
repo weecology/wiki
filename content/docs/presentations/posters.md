@@ -8,7 +8,7 @@ summary: >
 
 ## Designing your poster
 
-Posters are often end up being a wall of text. If you want to experiment with a new poster design, watch this [YouTube video](youtu.be/1RwJbhkCA58). The first half of the video is making an argument for why the 'traditional' poster design is ineffective, slows down knowledge transfer, and makes poster session less enjoyable for everyone. The new poster design is showed in the second half of the video if you want to just skip ahead. 
+Posters are often end up being a wall of text. If you want to experiment with a new poster design, watch this [YouTube video](https://youtu.be/1RwJbhkCA58). The first half of the video is making an argument for why the 'traditional' poster design is ineffective, slows down knowledge transfer, and makes poster session less enjoyable for everyone. The new poster design is showed in the second half of the video if you want to just skip ahead. 
 
 [note: should upload a copy of a traditional scientific poster]
 
