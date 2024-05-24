@@ -11,6 +11,7 @@ summary: >
 * P Card info is at [UF Procurement](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/)
   - [Travel Guidelines](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/transactions/)
   - [List of Allowable purchases](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/procedures/allowable/)
+* [WEC P Card FORMS](https://wec.ifas.ufl.edu/resources/ufgo-pcard-forms/)
 * Single transaction limit – The amount one single charge cannot exceed. Ours is $2,000.
 * Cycle limit – The amount that can be charged in the weekly cycle (Wed through Tue). Ours is $10,000.
 * Purchases cannot include sales tax if in Florida or with vendors with UF agreement (eg Amazon).
@@ -23,16 +24,22 @@ summary: >
 
 * You need to go through pcard training. This involves watching a number of videos. 
 * Step 1: Go to  myUFL, then navigate to My Self Service > Training and Development > myTraining.  To search for the PCard courses, click in the Activity Search box, then enter the appropriate course name or number. 
-* As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
-* When you finish your training fill in the [Cardholder agreement](https://procurement.ufl.edu/wp-content/uploads/2018/01/cardholder_agreement-1.pdf) and the top part of the [PCard Application](https://procurement.ufl.edu/wp-content/uploads/2018/09/2018-09-PCard-Application.pdf). Daniel Deep (or somebody else in the WEC office) can fill in the department section. The completed forms go to the PCARD team at pcard@ufl.edu. 
-* Processing should take a few weeks to a month. You'll get an email from the PCard office when it is approved. The PCard will be delivered to the WEC office. 
-* You may need to go in and specifically ask for it.
+* As a PCARD holder, you will need to take the following courses: UFGO500 and UFGO100
+* When you finish your training submit the [WEC PCARD APPLICATION FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UOVNKQkdRWkVEODdRMzQ4NUdYVjFGOE1CMiQlQCN0PWcu)
+* Once WEC receives your request the following process will take place:
+   * WEC will fill out the Pcard Application with the information you provide in this form
+   * WEC will collect required signatures
+   * WEC will submit Pcard Application to pcard team on your behalf (pcard team requires Dept approval)
+   * Pcard team will notify you when the card has been ordered
+   * You can expect to receive the card in about 15 days after.
+   * You will receive an email from WEC instructing you to pickup your pcard
+* In reality, processing takes a few weeks to a month. You may need to go in and specifically ask for it if you don't get an email.
 * Once you receive the card, activate it and set a PIN:
-  * Call 8882338855
-  * Your account number is the credit card number
-  * Your "Verification ID" is 0 followed by your UFID
-  * The phone number associated with the account is 352 392 1331. 
-  * This information is in the email from the PCard office that tells you your application was approved. You won't get a separate piece of mail with a PIN. 
+   * Call 8882338855
+   * Your account number is the credit card number
+   * Your "Verification ID" is 0 followed by your UFID
+   * The phone number associated with the account is 352 392 1331. 
+   * This information is in the email from the PCard office that tells you your application was approved. You won't get a separate piece of mail with a PIN. 
 
 ## General Info
 This section is for general info commonly needed for PCard Purchases
@@ -58,7 +65,7 @@ So you're taking the big step and actually going to use the PCard. Not to scare 
 
 > Web: Make sure that the site is not going to charge you sales tax. If it is you must stop immediately. There are other ways of purchasing from online vendors. If the vendor is on myUF Market (found on myufl) then you can follow [these guidelines](http://hr.ufl.edu/wp-content/uploads/instructionguides/Using%20PCard%20in%20myUF%20Market.pdf)
 
-> Otherwise, talk to Ethan or Morgan about purchase orders through the department. If you are still making your online purchase, billing address can be found under general info. Proceed to step 4.
+> Otherwise, talk to Glenda about purchase orders through the department. If you are still making your online purchase, billing address can be found under general info. Proceed to step 4.
 
 3) You are in a store. Are you in Florida or out of state?
 
@@ -69,19 +76,13 @@ So you're taking the big step and actually going to use the PCard. Not to scare 
 4) I have my thing, now what?
 
 > You have three, yes 3, days to submit your receipts to WEC. 
-Email the receipt and the following info to Dan Deep at WECFiscal@ifas.ufl.edu. 
-  * Date: 
-  * Vendor: 
-  * Items: 
-  * Project: 
-  * Amount: 
-  * Benefit to project: 
+Complete the [PCARD RECEIPT SUBMISSION FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UMFZaV0ZaQjRIOFRSTE1RMUtXNTFWTkFXMyQlQCN0PWcu)
 
-> You can either take a picture of the receipt and email it with the info or hand everything in on paper to Dan Deep. Also include the receipt in the UFReceipts Dropbox folder.
+> Attach a picture of the receipt at the end of the form.
 
 > If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
 
-> If you are traveling, make sure you include the TAR # for your trip iin the email. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
+> If you are traveling, make sure you include the TAR # for your trip iin the email. This can be found in UFGo.
 
 > If you buy fuel for a rental car, you need to include the rental agreement number in the email.
 
@@ -98,26 +99,5 @@ Did you lose your receipt? Sigh. Proceed to step 5.
 
 ## Temporarily increasing purchasing limit
 
-It is possible to temporarily increase the purchasing limit on your card if needed. To do this contact your budget manager (brandieseay@ufl.edu, Cc'ing the relevant PI) to get approval and then send the following information to Dan Deep (ganderindan@ufl.edu).
-
-Cardholder Name:
-
-Cardholder UFID:
-
-Business Unit (4 digits):
-
-Vendor Name:
-
-Amount:
-
-What is being purchased: 
- 
-Business Purpose:
-
-Fund Code (3 digits) :
-
-Has your budget manager approved this expense (yes or no):
-
-Justification for why a PO can't be done:
-
-PCard Approver’s Name: Dan Deep
+It is possible to temporarily increase the purchasing limit on your card if needed. 
+To do this complete the [ONE-TIME PCARD LIMIT INCREASE REQUEST FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UNTIxR01JV0ZHMlVFM1cyRkdJTFVGNEg3NCQlQCN0PWcu)
