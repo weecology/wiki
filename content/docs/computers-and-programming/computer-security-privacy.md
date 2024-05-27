@@ -7,7 +7,7 @@ summary: " "
 
 A password manager keeps track of the various passwords you use for different websites. (And the reason to use a different password for each account, is so that if your password at one place is compromised, it does not affect your other accounts.)
 
-* Commonly recommended password managers are [Lastpass](www.lastpass.com) and [1password](1password.com).
+* Commonly recommended password managers are [Lastpass](https://www.lastpass.com) and [1password](https://1password.com).
 * Lastpass has a free option, but will only sync passwords across similar device-types (e.g. between computers, or between smartphones), but not between computer and smartphone. Paid plans for Lastpass start at $2/month.
 * 1password seems to have a nicer interface, but plans start at $2.99/month.
 * The common usage for password managers is as browser plug-ins that can remember passwords, generate new random passwords, and autofill.

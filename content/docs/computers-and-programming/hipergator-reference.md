@@ -116,9 +116,9 @@ The column labeled "S" is your job status. You want this to be `R` for "running"
 
 * If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
 
-If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
+* If your files are large you should use Globus. See [the wiki page on Globus](https://wiki.weecology.org/docs/computers-and-programming/globus/)
 
-[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
+* [More information about storage](https://help.rc.ufl.edu/doc/Storage)
 
 ## Storage
 
@@ -489,23 +489,6 @@ Opening your browner, go to localhost:8888
 
 and viola, we are navigating hipergator from the confines of our own laptop.
 
-### Tensorflow and conda env
-
-To make use of the GPU machine learning environment, but also have access to your packages, creating a conda env with all your needs except tensorflow and keras and then add them to the python path after loading the tensorflow module.
-
-```
-ml git
-ml gcc
-ml geos
-ml tensorflow
-export PATH=${PATH}:/home/b.weinstein/miniconda/envs/DeepLidar/bin/
-export PYTHONPATH=${PYTHONPATH}:/home/b.weinstein/miniconda/envs/DeepLidar/lib/python3.6/site-packages/
-echo $PYTHONPATH
-
-/home/b.weinstein/DeepLidar
-python train.py --mode train
-```
-
 ## Support
 
 [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
@@ -552,7 +535,7 @@ The cores on `hpg2-compute` are roughly twice as fast as the  ones on `hpg1-comp
 There are a few other partitions available.
 
 * `gpu` - This is the partition to use if you want to use the GPU. You need to have bought GPU specifically, which our lab has.
-* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server. More details are [here](https://help.rc.ufl.edu/doc/Large-Memory_SMP_Servers).
+* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server.
 * `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
 * `gui` - For jobs where you want to run a GUI (graphical user interface). 
 

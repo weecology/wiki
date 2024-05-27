@@ -92,5 +92,5 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
 
 * Follow official language style guides (within reason). This helps make your code broadly readable and makes external contributions more likely.
     * Python: [Official Python Style Guide (PEP8)](https://www.python.org/dev/peps/pep-0008/)
-    * Julia: [Official Julia Style Guide](https://docs.julialang.org/en/stable/manual/style-guide/)
+    * Julia: [Official Julia Style Guide](https://docs.julialang.org/en/v1/manual/style-guide/)
     * R: [Hadley Wickham's style guide](http://adv-r.had.co.nz/Style.html). This isn't official, or broadly agreed on, but it serves as the base (or at least justification) for a lot of what we do
