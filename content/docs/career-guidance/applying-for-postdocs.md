@@ -11,19 +11,16 @@ summary: >
 Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
 https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
 
-Beckman Postdoctoral Fellows (http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
+[Beckman Postdoctoral Fellows](http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
 
 ## Finding a position
 
 There are also many sites where people who may already have money for a postdoc post ads (get paid from someone else's grant = less freedom to do what you want):
 
-ECOLOG listserv https://listserv.umd.edu/archives/ecolog-l.html
-
-Texas A&M job board http://wfscjobs.tamu.edu/job-board/
-
-Society for Conservation Biology http://careers.conbio.org/jobs/
-
-ESA job board https://www.esa.org/esa/careers-and-certification/job-board/
+* [ECOLOG listserv](https://www.esa.org/membership/ecolog/)
+* [Texas A&M job board](http://wfscjobs.tamu.edu/job-board/)
+* [Society for Conservation Biology](http://careers.conbio.org/jobs/)
+* [ESA job board](https://www.esa.org/esa/careers-and-certification/job-board/)
 
 ## Investigate the lab
 

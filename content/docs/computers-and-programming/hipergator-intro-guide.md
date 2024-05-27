@@ -8,7 +8,7 @@ category = "Computing"
 ## Introduction
 This guide gives a high level overview of how one goes about running R or python scripts on a high performance cluster (HPC). There are no coding examples here, and instead is designed to give someone a frame of reference for how to approach things, and where other more detailed tutorials fit in the larger picture. The expected user is someone who is comfortable doing analysis and writing scripts in R using RStudio, or python with various IDEs, and has no HPC experience.
 
-This is written for users of the [UFL HiperGator](https://www.rc.ufl.edu/services/hipergator/) who code in R or python, but most information will apply to potential users for any HPC system and with any scripting language.
+This is written for users of the [UFL HiperGator](https://www.rc.ufl.edu/get-started/hipergator/) who code in R or python, but most information will apply to potential users for any HPC system and with any scripting language.
 
 ## HPC Use cases
 There are two scenarios where you may want to run your analysis script on the HPC.  
@@ -62,7 +62,7 @@ A high performance cluster (HPC) is primarily two things.
     Having a script run without any interaction does not necessarily mean it needs to have parallel processing. See Should I make my code run parallel? below. 
 
 4. **You have to get your code and data onto the HPC.**  
-    You’ll need to use special programs to transfer files (both data and scripts) from your local computer to the HPC. For windows this will be the WinScp program, which will have the same username and password as logging into the command line. For mac or linux users you can use the Terminal to transfer files via the command line using the scp command. Read more about the [scp command here](https://scinet.usda.gov/guide/ceres/#using-scp-to-transfer-data). More on data transfer for HiperGator can be found here. Something you’ll see mentioned a lot is Globus, which is a useful (but not strictly required) tool when you need to transfer 100GB+ of data. 
+    You’ll need to use special programs to transfer files (both data and scripts) from your local computer to the HPC. For windows this will be the WinScp program, which will have the same username and password as logging into the command line. For mac or linux users you can use the Terminal to transfer files via the command line using the scp command. Read more about the [scp command here](https://scinet.usda.gov/guides/data/datatransfer#small-data-transfer-using-scp-and-rsync). More on data transfer for HiperGator can be found here. Something you’ll see mentioned a lot is Globus, which is a useful (but not strictly required) tool when you need to transfer 100GB+ of data. 
 
 5. **You need to ensure you have the correct packages.**  
     Most HPC systems will have common packages installed and ready to use. If not you’ll have to install them yourself. If you do this then the latest versions will be installed on the HPC, so it’s good practice to make sure all packages on your personal computer are up to date to so they match (in RStudio use Tools-> Check for package updates, in python use conda or pip to update all package to the latest version).
