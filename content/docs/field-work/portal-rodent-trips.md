@@ -50,6 +50,8 @@ We conduct plant census trips twice a year: Once in the winter (around late Marc
 * It will definitely be quite hot in May - August
 * There is somewhat limited cell reception at the site, depending on your carrier
 * We camp out in the desert. The bed of the truck is spacious enough to fit 2 tall people. The back seat inside the truck can also be used but it may not be as spacious. However, anyone is welcome to bring/set up a tent  near the ramada. There is an extra 2-person tent in the truck that anyone can use.
+* If a full census is not possible (due to inclement weather, insufficient time or people, etc.), prioritize sampling efforts on the long-term (plots 3, 4, 11, 14, 15, 17, 19, 21) plots. If able, also trap in total rodent exclosure(1, 9, 10, 12, 16, 23).
+* If camping on site is not feasible due to adverse weather conditions, you can stay at a nearby lodge (Portal Peak Lodge) or airbnb (check around Rodeo, NM and Portal, AZ). If booking ahead in these places, make sure to submit a [UFGO booking exception form](https://cfo.ufl.edu/wp-content/uploads/2023/11/ufgo_bookingtoolexceptionform_final.pdf) to the WEC Fiscal staff.
 
 ## Post-trip Duties: 
 
