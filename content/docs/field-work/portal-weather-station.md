@@ -26,6 +26,9 @@ The vast majority of the time, you will only be briefly connecting to the statio
   - rain gauge isn't clogged and is level
   - modem lights indicate power and a data connection
   - phenocam is sending pictures that are centered and focused
+  - check the humidity meter in the datalogger enclosure
+      - if it's pink, replace the desiccant packs (in the "electronics bag" in the truck)
+      - this shouldn't happen often (every few years), if you replace them more frequently, check the enclosure for leaks
 * Download data from the 2016 station
   - Look at the current data before downloading to check it looks reasonable 
 * Download data from the 2002 station
@@ -46,7 +49,7 @@ Glenda may ask you to do some more complicated maintenance, or you may discover 
   - [Cave Creek Visitor Information Center](https://www.fs.usda.gov/recarea/coronado/recarea/?recid=84324)
   - [Southwestern Research Station](https://www.amnh.org/research/southwestern-research-station).
 * [Valley Mercantile](http://www.thevalleymercantile.com/) is a harware store and has electrical equipment
-* We have a set of electronics screwdrivers, zip and velcro cable ties, a voltmeter, a combination wire tool, and of course a tool box in the truck. If there is anything else you find useful, buy it with your P Card (or ask Glenda to buy it) and add it to the kit!
+* We have a set of electronics screwdrivers, zip and velcro cable ties, a voltmeter, a combination wire tool, and of course a tool box in the truck. All the computer supplies you need for connecting to the equipment (connecting the Surface to the modem, downloading data, etc.) are in the 'electronics bag' in the truck. If there is anything else you find useful, buy it with your P Card (or ask Glenda to buy it) and add it to the kit!
 
 ### Guides and documentation
 
