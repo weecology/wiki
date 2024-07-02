@@ -5,7 +5,7 @@ summary: " "
 ---
 
 ## Cloning the Website Repository
-First, fork the [website repository](://github.com/weecology/website) to your own GitHub account. Then, clone your fork to your local machine and create a new branch. It's recommended to work on a branch rather than the default `main` branch to keep your changes organized.
+First, fork the [website repository](https://github.com/weecology/website) to your own GitHub account. Then, clone your fork to your local machine and create a new branch. It's recommended to work on a branch rather than the default `main` branch to keep your changes organized.
 
 ## One-Time Setup
 To get started, follow these steps for the initial setup:
