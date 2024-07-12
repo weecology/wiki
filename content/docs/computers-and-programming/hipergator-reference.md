@@ -541,7 +541,26 @@ There are a few other partitions available.
 
 ### Selecting a partition
 
-By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
+By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`.
+
+## Cron jobs - how to run regularly scheduled jobs
+
+If you're unfamiliar with cron jobs read [A Beginners Guide To Cron Jobs](https://ostechnix.com/a-beginners-guide-to-cron-jobs/).
+
+### SSH to daemon
+
+Cron jobs on the HPC need to be setup on a special machine called `daemon`.
+You can ssh there from the HPC using `ssh daemon`.
+After that you can use the usual `crontab -e` to setup your cron job.
+
+### Setting PATH for cron jobs
+
+For some reason the PATH isn't properly set when running cron jobs, so you need to set it at the top of the crontab.
+Add a line like this adding any additional paths you need (e.g., the location of your conda environments).
+
+```sh
+PATH=/opt/slurm/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/bin:/home/USERNAME/bin:/blue/ewhite/USERNAME/miniconda3/bin/
+```
 
 ## Check if running on HiPerGator
 
