@@ -3,6 +3,25 @@ title: "File Compression Notes"
 summary: " "
 ---
 
+## Efficient large volume (de)compression
+
+When archiving large volumes of data using parallel and highly efficient algorithms can be useful.
+We most commonly do this when archiving old projects on the HPC.
+
+On Linux (and our HPC) one of the easy ways to do this is with tar with zstd compression.
+
+```sh
+tar --use-compress-program=zstd -cvf my_archive.tar.zst /path/to/archive
+```
+
+If you need to pass arguments to zstd they can be included in quotes, `'zstd -v'`.
+
+To uncompress these archives:
+
+```sh
+tar --use-compress-program=unzstd -xvf my_archive.tar.zst
+```
+
 ## Fixing a corrupted zip file
 
 ### Using zip
