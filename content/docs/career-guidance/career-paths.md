@@ -13,8 +13,8 @@ summary: >
 * **Things to do:** 1) Learn R/Python, git/GitHub, statistics/machine learning, and Rmarkdown/Jupyter/Shiny; 2) Build website showing off these skills; 3) Start a data analysis related blog.
 * **Weecologists to talk to:** Xiao Xiao, Dave Harris, Kristina Riemer, Ben Morris, Clayton Bingham.
 * **Job Ad Examples**
-   * [Data Analyst (for profit company)](https://github.com/weecology/lab-wiki/blob/master/job_ads/Sr%20Data%20Analyst_examplejobad.pdf)
-   * [Data Scientist (academic setting)](https://github.com/weecology/lab-wiki/blob/master/Academic_DataScientist_jobadexample.pdf)
+   * [Data Analyst (for profit company)](/docs/career-guidance/job-ad-senior-data-analyst.pdf)
+   * [Data Scientist (academic setting)](/docs/career-guidance/job-ad-academic-data-scientist.pdf)
 
 ## Entrepreneur
 Take your skills and start your own business. 
@@ -44,7 +44,7 @@ Take your skills and start your own business.
 * **Core skills:** research-related skills (depending upon the type of position - field ecology, data analyst, statistician), oral and written communication to broad audiences, basic project management.
 * **Wecologists to talk to:** Kate Thibault (her original position at NEON was as a Research Scientist)
 * **Example Job Ads**
-   * [Ecologist - Federal](https://github.com/weecology/lab-wiki/blob/master/job_ads/fed_govt_jobad_example.pdf)
+   * [Ecologist - Federal](/docs/career-guidance/job-ad-federal-government-ecologist.pdf)
 
 ## Science and Technology Policy
 

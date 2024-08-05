@@ -21,7 +21,7 @@ Need help with command line? A good tutorial is available at [Software Carpentry
 
 ![](s=100)
 
-<img src="https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png" height="400">
+<img src="/docs/computers-and-programming/hipergator-login.png" height="400">
 
 
 ## How do I run a job?
@@ -116,9 +116,9 @@ The column labeled "S" is your job status. You want this to be `R` for "running"
 
 * If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
 
-If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
+* If your files are large you should use Globus. See [the wiki page on Globus](https://wiki.weecology.org/docs/computers-and-programming/globus/)
 
-[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
+* [More information about storage](https://help.rc.ufl.edu/doc/Storage)
 
 ## Storage
 
@@ -489,23 +489,6 @@ Opening your browner, go to localhost:8888
 
 and viola, we are navigating hipergator from the confines of our own laptop.
 
-### Tensorflow and conda env
-
-To make use of the GPU machine learning environment, but also have access to your packages, creating a conda env with all your needs except tensorflow and keras and then add them to the python path after loading the tensorflow module.
-
-```
-ml git
-ml gcc
-ml geos
-ml tensorflow
-export PATH=${PATH}:/home/b.weinstein/miniconda/envs/DeepLidar/bin/
-export PYTHONPATH=${PYTHONPATH}:/home/b.weinstein/miniconda/envs/DeepLidar/lib/python3.6/site-packages/
-echo $PYTHONPATH
-
-/home/b.weinstein/DeepLidar
-python train.py --mode train
-```
-
 ## Support
 
 [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
@@ -552,13 +535,32 @@ The cores on `hpg2-compute` are roughly twice as fast as the  ones on `hpg1-comp
 There are a few other partitions available.
 
 * `gpu` - This is the partition to use if you want to use the GPU. You need to have bought GPU specifically, which our lab has.
-* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server. More details are [here](https://help.rc.ufl.edu/doc/Large-Memory_SMP_Servers).
+* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server.
 * `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
 * `gui` - For jobs where you want to run a GUI (graphical user interface). 
 
 ### Selecting a partition
 
-By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
+By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`.
+
+## Cron jobs - how to run regularly scheduled jobs
+
+If you're unfamiliar with cron jobs read [A Beginners Guide To Cron Jobs](https://ostechnix.com/a-beginners-guide-to-cron-jobs/).
+
+### SSH to daemon
+
+Cron jobs on the HPC need to be setup on a special machine called `daemon`.
+You can ssh there from the HPC using `ssh daemon`.
+After that you can use the usual `crontab -e` to setup your cron job.
+
+### Setting PATH for cron jobs
+
+For some reason the PATH isn't properly set when running cron jobs, so you need to set it at the top of the crontab.
+Add a line like this adding any additional paths you need (e.g., the location of your conda environments).
+
+```sh
+PATH=/opt/slurm/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/bin:/home/USERNAME/bin:/blue/ewhite/USERNAME/miniconda3/bin/
+```
 
 ## Check if running on HiPerGator
 
@@ -583,3 +585,53 @@ if(grepl("ufhpc", nodename)) {
 ## Using RStudio on the hipergator
 
 See the main Wiki page here on running gui programs. https://help.rc.ufl.edu/doc/GUI_Programs#Start_a_GUI_Session_on_HiPerGator
+
+## Using VSCODE on hipergator
+
+Vscode is a great development environment for many languages (python, java, bash), and allows powerful integration with github copilot and other debugging tools. The docs on hipergator [hint](https://help.rc.ufl.edu/doc/SSH_Using_VS_Code) at how to do this, but don't make it clear how to check out a node and develop with those resources. We can use [vscode tunnels](https://code.visualstudio.com/docs/remote/tunnels) to do this easily. 
+
+Start by creating a SLURM script to get a development node. In this case, I want a GPU node.
+
+1. 
+```
+(base) [b.weinstein@login11 ~]$ cat tunnel.sh
+#!/bin/bash
+#SBATCH --job-name=tunnel   # Job name
+#SBATCH --mail-type=END               # Mail events
+#SBATCH --mail-user=benweinstein2010@gmail.com  # Where to send mail
+#SBATCH --account=ewhite
+#SBATCH --nodes=1                 # Number of MPI ran
+#SBATCH --cpus-per-task=10
+#SBATCH --mem=70GB
+#SBATCH --time=12:00:00       #Time limit hrs:min:sec
+#SBATCH --output=/home/b.weinstein/logs/tunnel.out   # Standard output and error log
+#SBATCH --error=/home/b.weinstein/logs/tunnel.err
+#SBATCH --partition=gpu
+#SBATCH --gpus=1
+
+module load vscode
+export XDG_RUNTIME_DIR=${SLURM_TMPDIR}; code tunnel
+```
+2. Submit the job and view the logs
+```
+(base) [b.weinstein@login11 ~]$ sbatch tunnel.sh
+(base) [b.weinstein@login11 ~]$ cat /home/b.weinstein/logs/tunnel.out
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+[2024-05-23 11:56:57] info Using Github for authentication, run `code tunnel user login --provider <provider>` option to change this.
+To grant access to the server, please log into https://github.com/login/device and use code 3390-CCD9
+```
+
+3. Go to https://github.com/login/device and authenticate with the code. You will see the hipergator logs change and successfully connect. 
+
+4. Go to your local vscode instance, active the 'remote explorer' extension and click on 'tunnels'. You will see the hipergator tunnel listed.
+
+<img width="972" alt="image" src="https://github.com/weecology/wiki/assets/1208492/6fc30817-5e84-4350-bebf-be6318ebbc69">
+
+Success! Now you are the GPU node and can debug and run with those resources!
+

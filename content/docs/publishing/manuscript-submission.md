@@ -90,7 +90,7 @@ When you resubmit your manuscript, you will also submit a detailed response to t
 
 Examples of Response to Reviewers:
 
-- [Response to reviewers](https://github.com/weecology/lab-wiki/blob/master/PLoS-Response.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
+- [Response to reviewers](/docs/publishing/point-by-point-response.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
 
 ## Response to editor
 When you resubmit you will also submit a cover letter to the editor. This is distinct from the detailed response to reviewers. The cover letter will consist of 2 main parts:
@@ -99,7 +99,7 @@ When you resubmit you will also submit a cover letter to the editor. This is dis
 
 Examples of Resubmission letters:
 
-- [Resubmission cover letter](https://github.com/weecology/lab-wiki/blob/master/PLoS-Revision-Cover-Letter.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
+- [Resubmission cover letter](/docs/publishing/cover-letter-revision.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
 
 ## Address for correspondence
 
@@ -117,4 +117,4 @@ Fax: (352) 392-6984
 
 Do not forget your co-authors through this process. You do not have to go through this on your own. They can help you brainstorm how to deal with difficult issues, help run analyses to deal with concerns, help draft language for the response letter or implement revisions to the manuscript. 
 
-Hopefully you have a good relationship with your co-authors and they are actively engaged, however often co-authors are more peripheral to a project (e.g., had a limited role in the analyses/manuscript). It can be easy to forget them as you manage all the moving parts of the review process. Professionally, however, you need to make sure they are OK with the manuscript during all the phases of this process. To do this we recommend following the [Collaborative Writing Guide](https://github.com/weecology/lab-wiki/wiki/Collaborative-writing). Regardless, you must ALWAYS have all co-authors sign off on the final version of the manuscript before submitting. 
+Hopefully you have a good relationship with your co-authors and they are actively engaged, however often co-authors are more peripheral to a project (e.g., had a limited role in the analyses/manuscript). It can be easy to forget them as you manage all the moving parts of the review process. Professionally, however, you need to make sure they are OK with the manuscript during all the phases of this process. To do this we recommend following the [Collaborative Writing Guide](/docs/publishing/collaborative-writing/). Regardless, you must ALWAYS have all co-authors sign off on the final version of the manuscript before submitting. 

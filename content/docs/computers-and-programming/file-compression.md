@@ -3,6 +3,35 @@ title: "File Compression Notes"
 summary: " "
 ---
 
+## Efficient large volume (de)compression
+
+When archiving large volumes of data using parallel and highly efficient algorithms can be useful.
+We most commonly do this when archiving old projects on the HPC.
+
+On Linux (and our HPC) one of the easy ways to do this is with tar with zstd compression.
+
+```sh
+tar --use-compress-program=zstd -cvf my_archive.tar.zst /path/to/archive
+```
+
+If you need to pass arguments to zstd they can be included in quotes, `'zstd -v'`.
+
+To uncompress these archives:
+
+```sh
+tar --use-compress-program=unzstd -xvf my_archive.tar.zst
+```
+
+## Ignoring failed reads using tar
+
+When archiving files with tar the archive will fail if any file cannot be read by the account doing the archiving.
+This is a common occurrence we archiving on the HPC and the files are often (but not always) hidden files that don't need to be archived (but definitely check to make sure).
+You can ignored these failed reads using the `--ignore-failed-read` flag.
+
+```sh
+tar --ignore-failed-read -cvf my_archive.tar.zst /path/to/archive
+```
+
 ## Fixing a corrupted zip file
 
 ### Using zip

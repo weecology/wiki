@@ -5,200 +5,180 @@ summary: >
 weight: 1
 ---
 
-This guide is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab-wiki pages, and linked to from here.
+[This page is always a Work in Progress] Welcome to Weecology! We are super excited that you’re joining us. (We only take people into our group that we are super excited about!).
 
-If you are a new member to the lab, please see the [issues](https://github.com/weecology/lab-wiki/issues) page of the lab wiki for the onboarding checklist. Make a new issue with your name and copy the list, and then be sure to go through it, referring back to the info here as necessary.
+This onboarding checklist is designed to help you get up to speed and integrated with our group. It is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab wiki pages, and linked to from here. It is not perfect. If you get stuck or confused, make sure to reach out to someone! Good people to contact probably depend on what exactly you’re confused about, but here are some suggestions:
+
+1. The newest member of the lab group you are joining has probably recently struggled with whatever you are struggling with.
+2. Glenda Yenni. She knows everything.
+3. Computer or Software related? Henry Senyondo is a good bet!
+4. Ethan or Morgan (we’re always here to help).
+5. Shy about asking anyone? The lab wiki itself has a lot of answers. Check out the bar to the left and see if one of the existing pages might have what you’re looking for.
+
+If you are a new member to the lab, you should complete the Onboarding Checklist included at the bottom of this page. Go to the [issues](https://github.com/weecology/wiki/issues) page of the lab wiki and look for an issue assigned to you with the onboarding checklist. If there isn't one, ask Glenda to create one for you, or make a new issue with your name and copy the list from the issue template, and then be sure to go through it, referring back to the info here as necessary. We’re always trying to improve the onboarding experience, so keep track of the things that you wished there was more information on or anything confusing. You’ll get a chance at this end of the onboarding checklist to suggest improvements!
 
 ## General Lab Policies
 
-### Lab Philosophy
-See [Way of Weecology](https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology).
+Browse the [Lab Policy and Procedures](https://wiki.weecology.org/docs/lab-policy-procedures/). Some to note are:
 
-### Lab Code of Conduct
-See [here](https://github.com/weecology/lab-wiki/wiki/Code-of-Conduct).
-
-### Software Project Code of Conduct
-For software projects, repos should adopt a separate code of conduct for interactions with contributors. See [here](https://github.com/weecology/lab-wiki/wiki/Software-Project-Code-of-Conduct) for an example.
-
-### Tea
-Earl grey should almost always have milk in it! (though this is technically optional, per ISO 3103)
-
-### Expectations / Annual Self-Assessment
-
-See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.
+* the [Way of Weecology](https://wiki.weecology.org/docs/lab-policy-procedures/way-of-weecology/)
+* the [Lab Code of Conduct](https://wiki.weecology.org/docs/lab-policy-procedures/code-of-conduct/)
+* the [Software Code of Conduct](https://wiki.weecology.org/docs/lab-policy-procedures/code-of-conduct-for-software/)
+* the [self-assessment process](https://wiki.weecology.org/docs/lab-policy-procedures/self-assessment/)
 
 ### Slack and GitHub
 
-- [ ] Markdown formatting
-- [ ] Look through and subscribe to channels on Slack
-- [ ] Basic commands in Slack (replies, responses, reminders, notifications for individuals/channel)
-- [ ] GitHub repos (creating, subscribing, making issues, pull requests)
-- [ ] Lab policies around using GitHub
+Browse the [computing wiki pages](https://wiki.weecology.org/docs/computers-and-programming/). Some to note are:
 
-### Calendars
+* [Slack](https://wiki.weecology.org/docs/lab-policy-procedures/slack/)
+* [Git Collaboration](https://wiki.weecology.org/docs/computers-and-programming/git-collaboration/)
 
-Once you have your weecology.org Google account, you will have access to the lab calendars. You can access these from a web browser at [https://calendar.google.com/](https://calendar.google.com/). (**Note that you may need to use the account management button in the upper-right corner if you are logged in with other Google accounts at the same time.**)
+### Graduate School
 
-Please keep your personal calendar up to date on when you will be out of town to help with scheduling meetings. Ethan & Morgan will have viewing access to your calendar. Some calendars you might want to add to your view to stay informed are:
-* "ethan" (Ethan White)
-* "morgan" (Morgan Ernest)
-* "conference room"
+If you are a graduate student, there is a wealth of (ever-changing) information in the [graduate school wiki pages](https://wiki.weecology.org/docs/graduate-school/).
 
-The conference room schedule is maintained separately. You might need to contact someone who already has access to share the calendar with you.
-
-### Lab Meeting
-
-(for Spring 2018) Weds at 1pm ET.
-
-Typical agenda is something like:
-* general announcements
-* short summary of past week from individuals present
-* presentation of research (see [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the schedule)
 
 ## Contact Info
 
-[Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)
+Find Emergency contact info pinned on the wiki.
 
 For correspondence, you can use the [WEC office contact info](https://wec.ifas.ufl.edu/about-wec/contact-information/).
 
-## Day-to-Day Operations
+## Onboarding Template
 
-### Computer Setup
+### Stage 1 Onboarding: Learning about Weecology and Getting Set Up
+#### Physical setup
 
-Tell Glenda if you need a new computer.
+- [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks.
+- [ ] Request your computer. Every weecologist gets a computer for their work/educational responsibilities. Tell Glenda if you want a laptop or desktop, and whether you want a windows, mac, or linux machine. Keep in mind that this computer is university property. It's assigned to you for work/educational purposes and when you end your official association with the lab, your computer will have to stay with us.
+- [ ] (Remote People Only) If you are working remotely, check out the [Remote Working Checklist](https://wiki.weecology.org/docs/lab-policy-procedures/working-remotely/) for additional steps on computer set-up and HR paperwork that applies to you.
+- [ ] (Local People Only) You will need a key to Building 150. Keys for new folks come from the WEC Building Manager, Cameron Carter ([ccriderr@ufl.edu](mailto:ccriderr@ufl.edu)). Email Cameron (Cc'ing Ethan and/or Morgan, depending on who your primary supervisor is) and let him know that you're a new member of the group and ask him for a key to Building 150.
 
-Here's a basic checklist for computer privacy and security. For more info, check out the wiki page on [Computer Security and Privacy Resources](https://github.com/weecology/lab-wiki/wiki/Computer-Security-&-Privacy-Resources)
+#### Get set up on Lab Communication Platforms
 
-- [ ] Get a password manager for your various website passwords.
-- [ ] Set up 2FA where you can, and especially for important services like email and GitHub
-- [ ] ^ Talk to Ethan or Glenda about getting a Yubikey for 2FA if you don't have one already
-- [ ] Set up a SSH key for command-line access to GitHub. [instructions here](https://help.github.com/articles/about-ssh/)
+- [ ] Check that Glenda has set you up on the weecology spaces for:
 
-#### Basic Software Setup
+    - [ ] GitHub
+    - [ ] Slack
+    - [ ] Weecology mail/calendar
+    - [ ] Dropbox (if you are working on Everglades or Portal projects)
+    - [ ] Drive (if you are working on Everglades or Portal projects)
 
-[Programming setup for Macs](https://github.com/weecology/lab-wiki/wiki/Computer-Setup-for-Mac)
+- [ ] Explore Weecology’s Slack group, sign up for any relevant channels
+- [ ] Go to [Slack Quick Start Guide](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) to learn slack basics
+- [ ] Read Weecology’s [Slack](https://wiki.weecology.org/docs/lab-policy-procedures/slack/) page
+- [ ] Take the [Markdown tutorial](https://www.markdowntutorial.com/). Markdown is a way of writing text that the computer then adds formatting to (i.e. italics, bullet points, headers). We use markdown for our website, as part of GitHub communication, and to create RMarkdown files to help keep track of projects.
+- [ ] Set up your weecology calendar with your class/work schedule, when you’ll be out of town etc. You can make the names of the events public or private as you wish, this is just so others can see when you’re available for scheduling purposes.
 
-***TODO: Complete existing page***
+- [ ] Staff Only: Ask Glenda to set you up with a Trello account (Trello is our project management system and how Morgan and Ethan keep track of the numerous things going on in the group)
+    - [ ] Watch the [introduction to trello](https://help.trello.com/article/899-getting-started-video-demo).
+    - [ ] Have Ethan, Morgan, or Glenda assign you to the boards that are relevant to your work duties.
 
-***TODO: Info for other OSes***
+- [ ] Add other calendars to your Weecology calendar to stay informed on other events. This can be done by finding the + sign by “Other Calendars”. Commonly used calendars include “ethan”, “morgan”, “conference room”, “UF Weecology Seminars”, and [portalproject1977@gmail.com](mailto:portalproject1977@gmail.com) (the portal calendar for keeping track of when trips are occurring)
+ 
+#### Familiarize Yourself with Lab Culture and Values
 
-The lab is transitioning to use of [Zotero](https://www.zotero.org/) as a common standard for managing bibliographies.
+- [ ] Browse the [Lab Policy and Procedures](https://wiki.weecology.org/docs/lab-policy-procedures/)
+- [ ] Read the [Way of Weecology](https://wiki.weecology.org/docs/lab-policy-procedures/way-of-weecology/)
+- [ ] Read the [Lab Code of Conduct](https://wiki.weecology.org/docs/lab-policy-procedures/code-of-conduct/)
+- [ ] Read the [Software Code of Conduct](https://wiki.weecology.org/docs/lab-policy-procedures/code-of-conduct-for-software/)
+- [ ] Read the [RA/TA rights](https://wiki.weecology.org/docs/lab-policy-procedures/ra-ta-rights/) policy.
 
-#### Programming
+#### Familiarize Yourself about Lab Procedures:
 
-* Style Guidelines
+- [ ] Read lab policies about [Collaborating on GitHub](https://wiki.weecology.org/docs/computers-and-programming/git-collaboration/)
+- [ ] Read about our [self-assessment process](https://wiki.weecology.org/docs/lab-policy-procedures/self-assessment/)
+- [ ] Read the [Social Events](https://wiki.weecology.org/docs/lab-policy-procedures/social-events/) policy
 
-  For Python, the [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
+#### Explore and Get to Know Folks
 
-  For R, [Hadley Wickham's Style Guide](http://adv-r.had.co.nz/Style.html).
+- [ ] Look at the Personnel Page on the Weecology website. Is there anyone on the active list that you haven’t met yet? Contact them and say hi. Maybe set up a videomeeting or a coffee/tea/water break to chat.
+- [ ] Browse the [Lab Wiki](https://wiki.weecology.org) and read through the sidebar. Read at least one page not linked to in the onboarding guide
 
-  For R packages, check out [rOpenSci's onboarding guide](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)
+#### Set Up Your Computer
 
-Lab wiki pages:
-* [parallelization in R](https://github.com/weecology/lab-wiki/wiki/Parallelization-in-R)
+- [ ] Choose R and/or Python (you can always change or add the other later!). People in our groups use R and/or Python as their primary programming language. Most people use R, but if you have more serious software engineering or image processing plans in mind, talk to your advisor about Python. If in doubt, talk to your advisor or other lab members.
+- [ ] For R:
+    - [ ] [Download and Install R](https://cran.rstudio.com/). Site includes a windows, linux, and MacOS version. Windows users: you want the base install
+    - [ ] Download and Install [RStudio](https://rstudio.com/products/rstudio/download/#download). This is the Individual Development Environment (IDE) that we use for writing R code. Choose the free version.
+    - [ ] Search the [lab wiki](https://wiki.weecology.org) for R tips and tricks.
+
+- [ ] For Python:
+    - [ ] Download and Install the [Anaconda Scientific Python Distribution](https://www.anaconda.com/products/individual)
+    - [ ] Download and Install [Visual Studio Code](https://code.visualstudio.com/download) This is the Integrated Development Environment that we recommend for writing Python code. Windows users: choose ‘user installer’ and 64 bit.
+    - [ ] Search the [lab wiki](https://wiki.weecology.org) for Python tips and tricks.
+- [ ] Install Git. Regardless of programming language you chose, do this. Git is the version control system we use for software and allows you to move things from your computer to GitHub. Follow the instructions on [Ethan’s course page](http://datacarpentry.org/semester-biology/computer-setup/) under the section “Git”. It has instructions for all three operating systems.
+- [ ] Set up the link between your IDE and GitHub
+    - [ ] [RStudio user instructions](https://wiki.weecology.org/docs/computers-and-programming/rstudio-git-integration/)
+    - [ ] Visual Studio Code Users: Talk to Henry!
+- [ ] [Install Zotero](https://www.zotero.org/download/). This is the [reference manager](https://www.aje.com/arc/reference-manager-software-what-it-and-what-can-it-do/) preferred in the lab. It syncs with both Google Docs and Word. And is less likely to get into nasty fights with DropBox if you keep all your PDFs there.
+    - [ ] Optional: You can also install the [zotero connector](https://www.zotero.org/download/connectors) which is a browser plugin that allows you to download articles being viewed in your browser directly to your zotero library
+- [ ] Set up a file back-up service. Computers die. Laptops have accidents. Hurricanes happen. You don't want to lose all your work when one of these occurs. A way to back up your files (preferably without you having to think about it) is important. Pick and install one of the following on your computer. Set up that folder as your primary work folder.
+    - [ ] DropBox: is commonly used in the lab and has a [free account](https://www.dropbox.com/basic) with up to 2 GB of storage. Staff can have a free account with more storage [through UF](https://it.ufl.edu/services/dropbox-for-education).
+    - [ ] OneDrive: students also have access to “unlimited” storage on UF’s [OneDrive](https://cloud.it.ufl.edu/collaboration-tools/office-365/).
+- [ ] Set up your computer to print to the lab printer. The lab printer is located in room 015 and accessible from the UFL network at 10.242.89.51. You may need to [download and install drivers](https://support.hp.com/us-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514) before adding it as a printer in order for it to function properly.
+- [ ] Set up [access to the T: drive](https://wiki.weecology.org/docs/computers-and-programming/t-drive/). This is a shared drive for the lab, and can be used to store large files associated with your project.
+- [ ] If the UF VPN is not already on your computer, install the [Cisco AnyConnect VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/). You'll need this to do literature searches from off campus.
+
+Congratulations! You have gotten yourself prepared to start working with the group! You’re now ready for Stage 2 of Onboarding: Engaging with the Science and Tools.
+
+### Stage 2: Engaging with the Science and Tools
+
+#### Learn about the Lab Intellectual Space:
+
+- [ ] Work through the [Weecology reading list](https://wiki.weecology.org/docs/getting-started/lab-reading-list/). (note: the reading list is still in development). For each of the subject areas read the overview paper.
+
+    - [ ] Portal Project Overview
+    - [ ] Macroecology Overview
+    - [ ] Forecasting Overview
+    - [ ] IDEA
+ 
+- [ ] Pick at least two areas that are especially interesting/relevant to you. Read all the papers listed on the reading list in that topic area, or find your own to read further
+- [ ] Are you funded by a grant? Ask the grant PI (probably Ethan or Morgan) for a copy to read. Don't know if you're funded on a grant? Ask Ethan, Morgan, or Glenda (she knows everything).
+- [ ] On the [lab website](https://weecology.org/), find a recent paper that looks interesting to you that is by someone currently in the group
+    - [ ] Read the paper
+    - [ ] Set up a meeting with that person to chat about their paper
+
+#### Learn about commonly used lab computational tools:
+
+##### Learn about Git and GitHub.
+
+- [ ] Go through the [Git for Humans](https://speakerdeck.com/alicebartlett/git-for-humans) slide show. It’s a good high-level introduction to what Git is and the jargon associated with it.
+- [ ] Read [What Is GitHub? A Beginner’s Introduction to Github](https://kinsta.com/knowledgebase/what-is-github/). This will explain the relationship between Git and GitHub.
+- [ ] Do a tutorial apply what you’ve just learned. Two good ones for practicing basic commands: [GitHub Tutorial](https://guides.github.com/activities/hello-world/) and/or [git and github for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [ ] Search the lab wiki for git tips and tricks
+
+##### Apply your markdown/Github knowledge:
+
+- [ ] Find a page on the lab wiki that has out of date info or has a tyypo (I’m sure you’ve found something!)
+  - [ ] Fix that page.
+  - [ ] Make a commit message before you save your changes, and open a PR
+- [ ] Add yourself to the [lab website](https://github.com/weecology/website/tree/main)
+  - [ ]  Add a folder for yourself in website/content/authors/, use another members folder contents as a guide
+  - [ ] Start a PR to add your changes
+  - [ ] Ask Henry for help if you need it
+- [ ] Identify a new page the lab wiki needs or a major change to an existing page (i.e. is there info you felt would be better moved onto one page? Something that should be added to the onboarding process? A page you wish existed?).
+  - [ ] Create an issue in the [Lab Wiki](https://github.com/weecology/wiki) Repo that explains your proposed change/addition.
+
+### Wrap-up
+
+Congrats! You have completed the onboarding process! Remember to keep checking on the lab wiki to see if it has information that might be useful to you. Pages that aren’t relevant to you now may become important to you in the future as your role and skills evolve!
+
+This guide is really just designed to get you a basic foundation. Depending on your role and prior experience, you may feel like you need more in-depth guidance on something we introduced you to here. That’s ok! Check out these additional resources:
+
+#### Style Guidelines
+
+  * For Python, the [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
+  * For R, [Hadley Wickham's Style Guide](http://adv-r.had.co.nz/Style.html).
+  * For R packages, check out [rOpenSci's onboarding guide](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)
 
 #### Git and GitHub
 
-Some external resources:
-* Olivia Guest’s [cheatsheet](http://neuroplausible.com/github)
-* Alice Bartlett's [slides on "Git for humans"](https://speakerdeck.com/alicebartlett/git-for-humans) <- *Hao recommends this as a top-level description of what Git is all about*
-* Chris Beams's [blogpost on writing commit messages](https://chris.beams.io/posts/git-commit/)
-* Software Carpentry [Git lesson](https://swcarpentry.github.io/git-novice/)
-* Jenny Bryan's book, ["Happy Git and GitHub for the useR"](http://happygitwithr.com/), book for UBC Stat 545
-* David Winterbottom's [blogpost on branches and pull request workflow](http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+  * Olivia Guest’s [cheatsheet](http://neuroplausible.com/github)
+  * Alice Bartlett's [slides on "Git for humans"](https://speakerdeck.com/alicebartlett/git-for-humans)
+  * Chris Beams's [blogpost on writing commit messages](https://chris.beams.io/posts/git-commit/)
+  * Software Carpentry [Git lesson](https://swcarpentry.github.io/git-novice/)
+  * Jenny Bryan's book, ["Happy Git and GitHub for the useR"](http://happygitwithr.com/), book for UBC Stat 545
+  * David Winterbottom's [blogpost on branches and pull request workflow](http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
-(Hao) I have this in my `~/.gitconfig` file to enable the `git lg` alias on command-line.
-```
-[alias]
-lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%<(40,trunc)%s%C(reset) %C(reverse white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
-lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
-lg = !"git lg1"
-```
-
-Lab wiki pages:
-* [setting up new GitHub repos and linking with RStudio](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio)
-* [using branches in Git/GitHub for collaboration](https://github.com/weecology/lab-wiki/wiki/Git-guide-to-collaborative-workflows)
-
-#### Backup
-
-Offsite backup of lab computers is best done using the *T: drive*. [Access instructions](https://github.com/weecology/lab-wiki/wiki/Accessing-the-T:-drive)
-
-***TODO: Info on how to setup automated backups? ***
-
-#### Lab Printer
-
-The lab printer is located in room 015 and accessible from the UFL network at `10.242.89.51`. You may need to [download and install drivers](https://support.hp.com/us-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514/model/19202521) before adding it as a printer in order for it to function properly.
-
-#### Shared Spaces
-
-[Learn about lab spaces and how to use them](/docs/lab-policy-procedures/lab-space)
-
-## Campus Resources
-
-### UFL Police / Security
-
-### Student Health Care Center
-
-Located in the historic Infirmary Building on Fletcher Drive. [more info](http://shcc.ufl.edu/)
-* Health Insurance:
-  - Grad students can apply to GatorGradCare Helath insurance. Despite it is free, enrollment is not automatic: you need to request for renew it every year by mid September [here](https://bluebiz.bcbsfl.com/stuenroll/GatorGradCare.do). If you are interested in knowing more about GatorGrad Care benefits, see [here](https://benefits.hr.ufl.edu/health/gatorgradcare/)
-* Dental:
-  - Students enrolled in GatorGradCare are eligible for a complete oral health exam and cleaning once a year. Here is  a [brochure](https://benefits.hr.ufl.edu/wp-content/uploads/sites/3/2018/05/GradDentalBenefits.pdf) of what it is about!
-* vision?
-* Mental Health:
-  - Gradschool (and Academia) is awesome but stressful: fortunately UFL aknowledges it, and it has some resources available for us. Everybody may need them, and using these resources can make a difference to manage strees, help with focusing and productivity, and most importantly, help everybody to take care of their mental health. If you are interested to learn more here is a list of some available resources.
-  - Staff have access to UF's [Employee Assistance Program](http://eap.ufl.edu).
-  - University of Florida Counseling and Wellness Center (CWC) https://counseling.ufl.edu/ : If a student has an urgent mental health need during business hours, CWC counselors are available between the hours of 9am and 4pm, Monday through Friday at Radio Road or the 4th floor of Peabody Hall. If a student has an urgent mental health need after business hours, phone consultation with a counselor is available 24 hours a day, 7 days a week. Call at 352-392-1575. 3190 Radio Road, Gainesville, FL 32611 Monday-Friday 8am-5pm 352-392-1575
-  - https://umatter.ufl.edu/ Emergency consultations are available with the CARE Team anytime, including outside of business hours. CARE Team: Peabody Hall, 3rd Level Monday - Friday, 8:00 am - 5:00 pm 352-294-CARE (2273) umatter@ufl.edu
-  - University of Florida Student Health Care Center (https://shcc.ufl.edu/) 280 Fletcher Drive Gainesville, Monday - Friday, 8:00 am - 5:00 pm; Closed Saturdays; Sunday, 12 - 4:00 pm 352-392-1161
-  - GatorWell Health Promotion Services (https://gatorwell.ufsa.ufl.edu/​​​​​​​): Reitz Union, Suite 1100 Monday - Friday, 8:00 am - 5:00 pm 352-273-4450 GatorWell@ufsa.ufl.edu
-
-* Other resources:
-  - National Sexual Assault Online Hotline
-Website: https://ohl.rainn.org/online/ 
-  - PsyberGuide resource: Mental Health Product Guide (www.psyberguide.org) A non-profit website providing reviews of mental health apps. Their goal is to provide reviews of mental health apps that are free of preference, bias, or endorsement. 
-  - Student Success (e.unisa.edu.au/enrol/advself/item.php?enrolid=129)
-Student Success is a program to help students be successful at school, and as future professionals. It covers self-care, problem-solving, and self-management.
-  - thedesk (www.thedesk.org.au/)
-Online resource that aims to normalize experiences and help students to develop skills to be able to get things done, stay connected with others, manage stress and worries, and improve health.
-
-### Legal Services
-
-* [UF Student Legal Services](https://www.studentlegalservices.ufl.edu/)
-* 
-
-### Networking
-
-* Zoocial! 
-  - Every Friday night grad students mainly from WEC, Biology, and Acquatic Sciences meet at 5:00 PM outside Bartram Hall. It is a relaxed, puppy friendly opportunity to meet other folks. 
-
-
-### WEC IT
-
-* point of contact: Tom Barnash (see http://www.wec.ufl.edu/people/staff.php)
-
-### Financial Services
-
-### Travel
-
-See https://github.com/weecology/lab-wiki/wiki/UF-Travel-Guidelines for info about travel and reimbursement.
-
-### Grad Student Union / Association?
-
-### Buying Stuff
-
-See https://github.com/weecology/lab-wiki/wiki/PCARDS for info on setting up a PCARD.
-
-### Poster
-
-See [here](https://github.com/weecology/lab-wiki/wiki/Making-a-Poster) for more info.
-
-### Florida Residency (for students)
-
-You'll be required to apply for Florida Residency after your first year. To make it as smooth as possible follow the steps in the [residency notes](https://github.com/weecology/lab-wiki/wiki/Florida-Residency) **before your first day of classes**. 
-
-### Florida Driver's License and Car Registration
-
-Students generally do not need to do this, but employees are supposed to register cars within 10 days (!), which first requires a FL driver's license... *Do pay close attention to the ID requirements.*
-
-See [here](http://www.flhsmv.gov/dhsmv/newflres.html) for more info.
+Finally, the lab wiki belongs to everyone, so feel free to edit or add pages as you identify information that was useful to you. Maybe it just serves as a useful cheatsheet for you, but in reality, if you had to figure it out, someone else in the future will too. Help out a future Weecologist by writing it down!

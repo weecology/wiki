@@ -10,7 +10,7 @@ When you start at UF you won't be a Florida resident for tuition purposed (unles
 
 Once you have been a resident of Florida for a year, you can petition to be reclassified as a Florida resident for tuition purposes.  This happens through the registrar's office, and involves a lot of paper.  Basically, you gather all the documents you can find that have your name, a Florida address, and a date at least one year ago, and hand in a packet to the Registrar.  I think the site says you need at least two documents, but it's much better to be over-prepared (if they deny your petition you may appeal, but this takes a long time and it's best to avoid it).  
 
-Here is UF's official website about this: http://www.admissions.ufl.edu/afford/establishres
+Here is UF's official website about this: <https://admissions.ufl.edu/cost-and-aid/residency>
 
 The documents that worked for Erica were: (everything should be a copy, they won't return these things to you)
 * Florida drivers license
@@ -20,7 +20,7 @@ The documents that worked for Erica were: (everything should be a copy, they won
 * Renters insurance policy
 
 ---
-[This document](https://github.com/weecology/lab-wiki/blob/master/How%20to%20Get%20Reclassified%20as%20a%20Florida%20Resident%20for%20Tuition%20Purposes.pdf) is from an IFAS Dean and outlines some of the official guidelines with links to the relevant Florida laws. Note that it states you cannot apply for residency if you only came to Florida for school. Yet this is the case for everybody in the Weecology lab, and everyone who has applied for residency has gotten it. 
+[This document](/docs/graduate-school/florida-residency-how-to.pdf) is from an IFAS Dean and outlines some of the official guidelines with links to the relevant Florida laws. Note that it states you cannot apply for residency if you only came to Florida for school. Yet this is the case for everybody in the Weecology lab, and everyone who has applied for residency has gotten it. 
 
 ---
 The people checking this read the law to the letter, which is something like "Legal documents showing residency of 12 months prior to the start of the semester". After talking with a few people it seems the easiest way to do this is, as soon as you move to Gainesville and **before your 1st semester starts** go get your Florida drivers license, car registration, and register to vote. At the start of your 2nd  year here these will then be legal docs that are dated 12 months from the present.   If you really want to drive it home you can also do the Declaration of Domicile along with your license, voter registration, etc. 

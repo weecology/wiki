@@ -38,7 +38,7 @@ _Using git/GitHub_
 
 ## Git/GitHub
 
-Resources: [Software Carpentry] (http://swcarpentry.github.io/git-novice/), [Jenny Bryan's course website](http://stat545-ubc.github.io/git00_index.html), [Roger Dudler cheatsheet] (http://rogerdudler.github.io/git-guide/) 
+Resources: [Software Carpentry](http://swcarpentry.github.io/git-novice/), [Happy Git and GiHub for the userR](https://happygitwithr.com/), [Roger Dudler cheatsheet](http://rogerdudler.github.io/git-guide/) 
 
 ### Installing git
 
@@ -54,7 +54,7 @@ Resources: [Software Carpentry] (http://swcarpentry.github.io/git-novice/), [Jen
 
 ### Configuring Git
 
-There's some basic info on Git setup from [software carpentry](https://swcarpentry.github.io/git-novice/02-setup/). If you are also setting up a GitHub account, be sure to use the same email address, so that when you use Git on your computer and *push* the changes to GitHub, it identifies you correctly.
+There's some basic info on Git setup from [software carpentry](https://swcarpentry.github.io/git-novice/#installing-git). If you are also setting up a GitHub account, be sure to use the same email address, so that when you use Git on your computer and *push* the changes to GitHub, it identifies you correctly.
 
 On a mac, browsing folders in finder also tends to generate `.DS_Store` files. You generally don't want to include those in your repositories, so here are [some instructions](https://www.jeffgeerling.com/blogs/jeff-geerling/stop-letting-dsstore-slow-you) to ignore such files globally.
 
