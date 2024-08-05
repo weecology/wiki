@@ -32,6 +32,8 @@ summary: " "
 ###   Data QA  
 
 * In GitHub (remote):  
+  Note: Make sure you have write access to the PortalData repo (ask Glenda about this).  
+
   - clone the repo by following the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Note: You only need to do this once.
   - create new branch and rename it to: rodents_censusperiod (Make sure you are in the correct repo: PortalData). Follow instructions [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository). 
 
@@ -123,4 +125,3 @@ summary: " "
     - [minor] - use if you're adding new data. This is the default so no tags in a commit message will assume this. This will update the version from 1.88.0 to 1.89.0, for example.
     - [patch] - use if you've made a small change to existing data (eg fixed species or sex, or a typo, etc), without adding new data. This will update from 1.88.0 to 1.88.1, for example.
     - [no version bump] -  This would usually be for changes to code that don't change data at all (eg, adding tests). The version number will not change, and the update won't get archived on Zenodo. 
-
