@@ -32,6 +32,7 @@ summary: " "
 ###   Data QA  
 
 * In GitHub (remote):  
+Note: Make sure you have write access to the PortalData repo (ask Glenda about this).  
   - clone the repo by following the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Note: You only need to do this once.
   - create new branch and rename it to: rodents_censusperiod (Make sure you are in the correct repo: PortalData). Follow instructions [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository). 
 
