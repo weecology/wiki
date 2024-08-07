@@ -32,7 +32,7 @@ To setup this up follow [the official instructions](https://code.visualstudio.co
 
 1. Install docker for your OS with non-sudo access (on Linux add your user to the `docker` group and logout)
 2. Install the Dev Containers extension
-3. Create a `.devcontainer.json` file to your project directory indicating which container to use, e.g,.
+3. Create a `.devcontainers/devcontainer.json` file to your project directory indicating which container to use, e.g,.
 
 ```json
 {
