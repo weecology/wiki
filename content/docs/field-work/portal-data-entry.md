@@ -29,8 +29,9 @@ summary: " "
     - Using the scanner, press READ, then MENU until it says "Stored ID tags". Press the up arrow, then READ. It will ask if you want to send all tags. Press READ. The tags *should* appear in the BioTerm text box. You may need to squeeze the adapter into the scanner so you get a really secure connection (the screw is really difficult to turn all the way). In theory you can also type "G" into the BioTerm text box and the tags will appear.
     - Open the Notepad application. Copy the tags from the BioTerm text box into an empty text file in Notepad.
     - Save the file with the new tags with the census number (tags###.txt) in the Portal Dropbox folder: Portal -> PORTAL_primary_data -> Rodent -> Raw_data -> New_data -> tag scans.
-* Delete old PIT tag scans
-    - Once you are absolutely sure the tags from the most recent census have been save in the Portal Dropbox folder, you will want to delete them from the PIT tag scanner.
+* Delete old PIT tag scans 
+    - *NOTE: This should only occur after you have completed data QA!*
+    - Once you have completed all data QA, you will want to delete the previous PIT tag scans from the scanner so they do not get read into next month's tag scans file.
     - Using the scanner, press READ, then MENU unitl it says "Stored ID tags." Press the up arrow twice; at this point, the scanner should read "Delete tags?" with the default set to NO. Press READ to select YES, then press the up arrow.
     - When you check the stored tags, the number should now read 000.
 
