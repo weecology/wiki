@@ -5,18 +5,19 @@ summary: " "
 
 ## Pre-trip Preparations  
 
-1. Put together field crew.
+1. Add census dates to Portal Google calendar
+2. Put together field crew.
    * During the summer months, a crew of 4 (including RA) is ideal for the rodent census. Portal plant census trips may benefit from more people. "Local" volunteers (Tucson-based folks) sign up in this [form](https://forms.gle/6XXCzp5bUzgG6XNA9).
-2. Submit necessary volunteer paperwork to WEC-HR (if-svc-wechr@mail.ufl.edu) and CC Administrative Services Manager (currently, Donna Dyer (dkb@ufl.edu)) and WEC Fiscal (wecfiscal@ifas.ufl.edu):
+3. Submit necessary volunteer paperwork to WEC-HR (if-svc-wechr@mail.ufl.edu) and CC Administrative Services Manager (currently, Donna Dyer (dkb@ufl.edu)) and WEC Fiscal (wecfiscal@ifas.ufl.edu):
    * [Record of Volunteer Service](https://chp.phhp.ufl.edu/wordpress/files/2019/07/Record-of-Volunteer-Service.pdf)
    * [Volunteer Appointment Request](https://wec.ifas.ufl.edu/media/wecifasufledu/files/personnel/POI-VOLUNTEER-UFID-Request-Form-Fillable.pdf). Supervisor is the RA. Volunteers (even if they are grad students at UF) should choose the status: VOLUNTEER. Local physical (work site) address is: BLM land, Desert Willow Rd, Cochise County, AZ).
    * [Supervisor Checklist](https://webfiles.ehs.ufl.edu/jobduty.pdf). Choose None of the above duties apply, and have Glenda sign it. Form can be reused for multiple volunteers and trips.
-3. Book Travel 
+4. Book Travel 
     * File a [blanket travel request](https://wec.ifas.ufl.edu/resources/ufgo-travel-forms/) for all crew members. Choose Option 2 and fill the form accordingly.
     * Book flights and lodging for yourself and all non-UF field crew members using [UFGO](https://www.concursolutions.com/home.asp).
     * Coordinate with other UF employees to book their travel similarly.
-4. (*Optional*) A week before travel, reach out to volunteers to get food/drink requests and order groceries online (e.g., Walmart), and just do a pick-up the day you drive down to the site.
-5. In Tucson
+5. (*Optional*) A week before travel, reach out to volunteers to get food/drink requests and order groceries online (e.g., Walmart), and just do a pick-up the day you drive down to the site.
+6. In Tucson
     * Pick up field truck in the off airport parking lot. Use the PCard to pay for it.
     * Pickup/buy groceries
     * Fill water containers (in Walmart, Watermill Express or other refilling stations)
