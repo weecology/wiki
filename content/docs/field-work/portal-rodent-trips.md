@@ -7,7 +7,8 @@ summary: " "
 
 1. Add census dates to Portal Google calendar
 2. Put together field crew.
-   * During the summer months, a crew of 4 (including RA) is ideal for the rodent census. Portal plant census trips may benefit from more people. "Local" volunteers (Tucson-based folks) sign up in this [form](https://forms.gle/6XXCzp5bUzgG6XNA9).
+   * During the summer months, a crew of 4 (including RA) is ideal for the rodent census. Portal plant census trips may benefit from more people.
+   * "Local" volunteers (Tucson-based folks) sign up in this [form](https://forms.gle/6XXCzp5bUzgG6XNA9).
 3. Submit necessary volunteer paperwork to WEC-HR (if-svc-wechr@mail.ufl.edu) and CC Administrative Services Manager (currently, Donna Dyer (dkb@ufl.edu)) and WEC Fiscal (wecfiscal@ifas.ufl.edu):
    * [Record of Volunteer Service](https://chp.phhp.ufl.edu/wordpress/files/2019/07/Record-of-Volunteer-Service.pdf)
    * [Volunteer Appointment Request](https://wec.ifas.ufl.edu/media/wecifasufledu/files/personnel/POI-VOLUNTEER-UFID-Request-Form-Fillable.pdf). Supervisor is the RA. Volunteers (even if they are grad students at UF) should choose the status: VOLUNTEER. Local physical (work site) address is: BLM land, Desert Willow Rd, Cochise County, AZ).
