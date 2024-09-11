@@ -37,7 +37,8 @@ summary: " "
 
 ###   Data QA  
 
-* In GitHub (remote):  
+* In GitHub (remote):
+ - Make sure you have write access to the PortalData repo (ask Glenda about this).  
   - clone the repo by following the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Note: You only need to do this once.
   - create new branch and rename it to: rodents_censusperiod (Make sure you are in the correct repo: PortalData). Follow instructions [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository). 
 
@@ -85,8 +86,8 @@ summary: " "
   
 **B.  Transect data** 
 
-* Scan data sheets and deposit on Portal Dropbox folder: Portal -> PORTAL_primary_data -> Plant -> TRANSECTS -> ShrubTransects(2015-present) -> Datasheet_scans. Make sure to rename file accordingly. (Ex.:Summer20XX_transects.pdf) 
-* Go to: Portal -> PORTAL_primary_data -> Plant -> TRANSECTS -> ShrubTransects(2015-present) -> RawData and make a copy of a previous filled in .xlsx datasheet, clear it, and rename appropriately (Ex.:ShrubTransect_SummerXX.xlsx).  
+* Scan data sheets and deposit on Portal Dropbox folder: Portal -> PORTAL_primary_data -> Plant -> TRANSECTS -> DataRaw -> Datasheet_scans. Make sure to rename file accordingly. (Ex.:Summer20XX_transects.pdf) 
+* Go to: Portal -> PORTAL_primary_data -> Plant -> TRANSECTS -> DataRaw -> RawData and make a copy of a previous filled in .xlsx datasheet, clear it, and rename appropriately (Ex.:ShrubTransect_SummerXX.xlsx).  
 * Enter data on DE1 tab. Field technician enters data on DE2 tab.
   - When filling in the year, encode full year value (Ex. Encode 2024 instead of 24).
   - If needed, check the Species List tab for the correct spelling of species ID codes.  
@@ -118,7 +119,7 @@ summary: " "
   - In the Files tab in R, go to PortalData -> DataCleaningScripts, and click on clean_shrub_transect_data.R.
   - Run all lines of code and don't forget to update line 28 and 29 to the correct season and year.
   Note: If you are using a Windows Machine:
-    * line 30 (filepath= "") should have 2 back slashes after each location (Ex.: filepath= D:\\Dropbox\\Portal\\PORTAL_primary_data\\Plant\\TRANSECTS\\ShrubTransects(2015-present)\\RawData\\)
+    * line 30 (filepath= "") should have 2 back slashes after each location (Ex.: filepath= D:\\Dropbox\\Portal\\PORTAL_primary_data\\Plant\\TRANSECTS\\Data_raw\\RawData\\)
 
 *Notes:*  
 
