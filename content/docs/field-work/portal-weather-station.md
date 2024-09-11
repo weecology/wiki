@@ -27,11 +27,16 @@ The vast majority of the time, you will only be briefly connecting to the statio
   - modem lights indicate power and a data connection
   - phenocam is sending pictures that are centered and focused
   - check the humidity meter in the datalogger enclosure
-      - if it's pink, replace the desiccant packs (in the "electronics bag" in the truck)
+      - if it's pink, replace the desiccant packs (in the "cable bag" in the truck)
       - this shouldn't happen often (every few years), if you replace them more frequently, check the enclosure for leaks
 * Download data from the 2016 station
-  - Look at the current data before downloading to check it looks reasonable 
+  - Look at the current data before downloading to check it looks reasonable
+  - Rename files *`periodcode`*`_CR1000_MET.dat` and *`periodcode`*`_CR1000_Storms.dat`
+  - Move files to `/UFL Dropbox/Portal/PORTAL_primary_data/Weather/Raw_data/2016_Station`
 * Download data from the 2002 station
+  - Look at the current data before downloading to check it looks reasonable
+  - Change filename to `Met`*`periodcode`*`.dat`
+  - Move file to `/UFL Dropbox/PORTAL_primary_data/Weather/Raw_data/2002_Station`
 * There is a manual rain gauge mounted near the station. It's mostly a tradition at this point, but it is nice to get an in-person look at how much moisture the site got over the last month.
   - measure the mm of rain
   - dump it out and add new mineral oil
