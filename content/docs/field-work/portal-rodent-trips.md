@@ -9,10 +9,15 @@ summary: " "
 2. Put together field crew.
    * During the summer months, a crew of 4 (including RA) is ideal for the rodent census. Portal plant census trips may benefit from more people.
    * "Local" volunteers (Tucson-based folks) sign up in this [form](https://forms.gle/6XXCzp5bUzgG6XNA9).
-3. Submit necessary volunteer paperwork to WEC-HR (if-svc-wechr@mail.ufl.edu) and CC Administrative Services Manager (currently, Donna Dyer (dkb@ufl.edu)) and WEC Fiscal (wecfiscal@ifas.ufl.edu):
-   * [Record of Volunteer Service](https://chp.phhp.ufl.edu/wordpress/files/2019/07/Record-of-Volunteer-Service.pdf)
-   * [Volunteer Appointment Request](https://wec.ifas.ufl.edu/media/wecifasufledu/files/personnel/POI-VOLUNTEER-UFID-Request-Form-Fillable.pdf). Supervisor is the RA. Volunteers (even if they are grad students at UF) should choose the status: VOLUNTEER. Local physical (work site) address is: BLM land, Desert Willow Rd, Cochise County, AZ).
-   * [Supervisor Checklist](https://webfiles.ehs.ufl.edu/jobduty.pdf). Choose None of the above duties apply, and have Glenda sign it. Form can be reused for multiple volunteers and trips.
+3. Make sure your volunteers submit the volunteer form (if they need reimbursement or you are purchasing any travel for them):
+   * [WEC - POI Guest, Volunteer Request](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3D-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UQUIzSEtWT0tVUEY1SzVDUUsxQzJSSTM5TiQlQCN0PWcu&data=05%7C02%7Cgmyenni%40ufl.edu%7Cdbd63a14bb314ae5673408dd09a40e93%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638677322405818577%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GKm3AtiUgNKVMEqWksXO3pjI1DgrOdRVvNwhp7RIPW8%3D&reserved=0)
+   * Select **Both** Travel POI and Volunteer Request
+   * University of Florida Affiliation Status - Volunteer
+     * Even grad students at UF should choose the status Volunteer.
+   * Local Mailing Address - where you want to receive your reimbursement check, if different from permanent address
+   * Local physical (work site) address is: BLM land, Desert Willow Rd, Cochise County, AZ).
+   * Are you expecting travel payment or reimbursements? - Yes
+   * Are you requesting to also become a Volunteer? - Yes
 4. Book Travel 
     * File a [blanket travel request](https://wec.ifas.ufl.edu/resources/ufgo-travel-forms/) for all crew members. Choose Option 2 and fill the form accordingly.
     * Book flights and lodging for yourself and all non-UF field crew members using [UFGO](https://www.concursolutions.com/home.asp).
@@ -100,9 +105,9 @@ The following rodent trapping-related field guides are in the Portal Dropbox for
 
 ## Some other things to keep in mind
 
-* We take care of all the food and related items (volunteers don't need to bring coffee, snacks, plates, utensils, etc. unless they want to)
-* This is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in (we have several large jugs we can fill for drinking and washing dishes).  
+* You can let volunteers know they don't need to bring anything (coffee, snacks, plates, utensils, first aid, etc.) unless they want to. We take care of all food and most supplies.
+* Also warn volunteers this is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in. We have several large jugs we can fill for drinking and washing dishes, but they may want to bring wet wipes or other personal hygeine supplies to be comfortable.
 * It may be quite cold in December - February (it has been known to freeze overnight)
 * It will definitely be quite hot in May - August
 * There is somewhat limited cell reception at the site, depending on your carrier
-* We camp out in the desert. The bed of the truck is spacious enough to fit 2 tall people. The back seat inside the truck can also be used but it may not be as spacious. However, anyone is welcome to bring/set up a tent  near the ramada. There is an extra 2-person tent in the truck that anyone can use.
+* We camp out in the desert. The bed of the truck is spacious enough to fit 2 tall people. The back seat inside the truck can also be used but will only be comfortable for those under 5'4". There is an extra 2-person tent in the truck that anyone can use. Anyone is welcome to bring/set up a tent  near the ramada, there are a few established spots.
