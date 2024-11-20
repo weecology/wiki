@@ -9,7 +9,7 @@ summary: " "
 2. Put together field crew.
    * During the summer months, a crew of 4 (including RA) is ideal for the rodent census. Portal plant census trips may benefit from more people.
    * "Local" volunteers (Tucson-based folks) sign up in this [form](https://forms.gle/6XXCzp5bUzgG6XNA9).
-3. Make sure your volunteers submit the volunteer form (if they need reimbursement or you are purchasing any travel for them):
+3. Submit the volunteer form for any new volunteers that need reimbursement or if you are purchasing any travel for them:
    * [WEC - POI Guest, Volunteer Request](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3D-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UQUIzSEtWT0tVUEY1SzVDUUsxQzJSSTM5TiQlQCN0PWcu&data=05%7C02%7Cgmyenni%40ufl.edu%7Cdbd63a14bb314ae5673408dd09a40e93%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638677322405818577%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GKm3AtiUgNKVMEqWksXO3pjI1DgrOdRVvNwhp7RIPW8%3D&reserved=0)
    * Select **Both** Travel POI and Volunteer Request
    * University of Florida Affiliation Status - Volunteer
