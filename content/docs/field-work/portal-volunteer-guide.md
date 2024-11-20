@@ -4,7 +4,15 @@ summary: " "
 ---
 
 ## UF paperwork
-  * If this is your first time volunteering, you'll need to complete this form: https://www.whitney.ufl.edu/media/wwwwhitneyufledu/images/files/UF-Record-of-Volunteer-Service.pdf 
+  * If this is your first time volunteering, you'll need to complete this form: [WEC - POI Guest, Volunteer Request](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3D-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UQUIzSEtWT0tVUEY1SzVDUUsxQzJSSTM5TiQlQCN0PWcu&data=05%7C02%7Cgmyenni%40ufl.edu%7Cdbd63a14bb314ae5673408dd09a40e93%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638677322405818577%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GKm3AtiUgNKVMEqWksXO3pjI1DgrOdRVvNwhp7RIPW8%3D&reserved=0)
+ 
+    * Select **Both** Travel POI and Volunteer Request
+    * University of Florida Affiliation Status - Volunteer
+      * Even grad students at UF should choose the status Volunteer.
+    * Local Mailing Address - where you want to receive your reimbursement check, if different from permanent address
+    * Local physical (work site) address is: BLM land, Desert Willow Rd, Cochise County, AZ).
+    * Are you expecting travel payment or reimbursements? - Yes
+    * Are you requesting to also become a Volunteer? - Yes
   * Keep track of your out-of-pocket expenses, and give them to the RA after the trip 
     * Include receipts for taxis/lyft, public transit fare, baggage fees
 
@@ -78,8 +86,8 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 * There is a large woodrat midden in the corner of the ramada (our shed). We don't really touch it.
 
 ### Logistics
-* We sleep in the truck, either in the back (it is a closed bed pickup truck, so the back of the truck has room for two tall people to stretch out) or horizontally across the front and back seats. Sleeping inside the cab might be warmer. When there are many people, or personal preference, we pitch tents around the area where we park the truck.
-* We go to the bathroom in a designated area a little way away from the camping area. We pack out toilet paper, and bury waste when appropriate. We may be able to drive to flush toilets during the day on Saturday, but unfortunately there's no way for us to completely avoid having to go to the bathroom outdoors.
+* We sleep in the truck, either in the back (it is a closed bed pickup truck, so the back of the truck has room for two tall people to stretch out). Volunteers can pitch tents around the area where we park the truck, there are a few established spots. A tent is available for use, or you can bring your own.
+* We go to the bathroom in a designated area a little way away from the camping area. We pack out toilet paper, and bury waste when appropriate. We may be able to drive to flush toilets during the day on Saturday, but unfortunately there's no way for us to completely avoid having to go to the bathroom outdoors. Bring wet wipes or other personal hygeine supplies as you prefer.
 * We carry several large containers of water for drinking, cooking, and washing. Use as much as you need. We can refill on Saturday if necessary.
 * There are no showers at the site.
 * Please let the RA know about dietary restrictions and preferences. We're happy to get whatever groceries we need.
