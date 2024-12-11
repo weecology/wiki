@@ -8,10 +8,10 @@ summary: >
 
 ## Funding
 
-Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
+- Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
 https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
-
-[Beckman Postdoctoral Fellows](http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
+- [Beckman Postdoctoral Fellows](http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
+- [Gulf Research Program’s Science Policy Fellowship](https://www.nationalacademies.org/our-work/science-policy-fellowship/for-applicants). For folks interested in government and NGO science roles this is an opportunity to get a years worth of post-PhD experience working "on the staff of federal, state, local, or non-governmental environmental, natural resource, oil and gas, and public health agencies in the Gulf of Mexico region"
 
 ## Finding a position
 
