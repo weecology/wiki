@@ -23,3 +23,7 @@ If students are interested there are additional opportunities to apply for fello
 - [ForEverglades Fellows](https://www.evergladesfoundation.org/fellows)
 
 If you're interested in applying for a fellowship talk to Morgan or Ethan.
+
+## Students interested in experience in government science roles
+
+- [Gulf Research Program’s Science Policy Fellowship](https://www.nationalacademies.org/our-work/science-policy-fellowship/for-applicants)
