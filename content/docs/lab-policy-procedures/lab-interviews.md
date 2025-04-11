@@ -1,5 +1,5 @@
 ---
-title: Interviewing Propspective Lab Members
+title: Interviewing Prospective Lab Members
 linkTitle: Lab Interviews
 summary: >
   How to participate in interviews for positions in the lab
