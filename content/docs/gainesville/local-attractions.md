@@ -24,12 +24,13 @@ Numerous springs around Gainesville worth a visit. Most are state parks and have
 
 ## Food
 * East End Eatery - Great breakfast, closes after lunchtime.
-* Satchel's Pizza - 
+* Satchel's Pizza - local institution. good pizza. serves beer and house-made sodas. 
 * The Top - Good food all around, large beer collection
 * Boca Fiesta - Good mexican food
 * La Tienda - **Really** good mexican food. 
 * Sweetberries - Great sandwiches and ice cream, close to campus.
 * Mi Apa Latin Cafe - **Really** good Cuban food
+* Baker Baker - excellent bakert and very reasonably priced. Runs out early, so if it's 10 am you are WAY too late.
 
 ## Bike Shops
 * Reitz Union has a student bike repair shop -- services (basic?) are [free](https://www.sg.ufl.edu/BikeRepair).
