@@ -87,11 +87,19 @@ srundev --time 3:00:00 --mem 2GB
 
 To test out work involving a GPU you need to explicitly request a development node associated with a GPU. For many GPU tasks you may want a meaningful amount of memory.
 
+In most cases you'll use the default GPUs:
+
 ```sh
-srun -p gpu --nodes=1 --gpus=a100:1 --mem 20GB --cpus-per-task=1 --pty -u bash -i
+srun --nodes=1 --gpus=1 --mem 20GB --cpus-per-task=1 --pty -u bash -i
 ```
 
-To increase the number of GPUs increase the number after the colon following `a100`.
+But if you need a lot of VRAM (>24 GB/GPU) you can use the B200 nodes:
+
+```sh
+srun -p hpg-b200 --nodes=1 --gpus=1 --mem 50GB --cpus-per-task=1 --pty -u bash -i
+```
+
+To increase the number of GPUs increase the value of `--gpu`, but you typically shouldn't need more than 2 for interactive work and then only if you're setting up multi-GPU testing.
 
 To increase the number of CPUs increase the value for `--cpus-per-task`
 
@@ -523,21 +531,14 @@ for the normal queue, and
 for the "burst" queue.   
 
 ## Partitions
+
 The HiperGator consists of hundreds of servers. These a split up into several "partitions" for various reasons.
 
-The two primary partitions which you'll use the most are `hpg1-compute`, and `hpg2-compute`.
+Most of the time you can just use the defaults, but there are a few species partitions available that you might been to request:
 
-* `hpg1-compute` - This is the set of older servers that make up the original hipergator cluster. They have 64 cores and 256GB of RAM per node. 
-* `hpg2-compute` - This is a newer set of servers brought online in 2017. They have 32 cores and 128GB of RAM per node 
-
-The cores on `hpg2-compute` are roughly twice as fast as the  ones on `hpg1-compute`. So the former partition is usually under a heavier load when you look at the current usage with `slurmInfo -pu`. 
-
-There are a few other partitions available.
-
-* `gpu` - This is the partition to use if you want to use the GPU. You need to have bought GPU specifically, which our lab has.
-* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server.
-* `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
-* `gui` - For jobs where you want to run a GUI (graphical user interface). 
+- `hpg-b200` - This is the partition to use for GPU jobs with large VRAM needs (>24 GB/GPU). You need to have paid for GPU access, which our lab has.
+- `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a _lot_ of memory but still want to keep a script on a single server.
+- `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
 
 ### Selecting a partition
 
@@ -606,7 +607,6 @@ Start by creating a SLURM script to get a development node. In this case, I want
 #SBATCH --time=12:00:00       #Time limit hrs:min:sec
 #SBATCH --output=/home/b.weinstein/logs/tunnel.out   # Standard output and error log
 #SBATCH --error=/home/b.weinstein/logs/tunnel.err
-#SBATCH --partition=gpu
 #SBATCH --gpus=1
 
 module load vscode
