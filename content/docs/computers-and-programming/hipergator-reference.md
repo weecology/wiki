@@ -163,10 +163,10 @@ Note that for `/blue` and `/orange` if you are working on individual projects th
 Our current allocations as of July 2019
 
 | Storage Type | Location                | Quota |
-|--------------|-------------------------|-------|
-| orange       | `/orange`               | 20TB  |
-| blue         | `/blue`                 | 4TB   |
-| home         | `/home/<your_username>` | 20GB  |
+| ------------ | ----------------------- | ----- |
+| orange       | `/orange`               | 48 TB |
+| blue         | `/blue`                 | 25 TB |
+| home         | `/home/<your_username>` | 20 GB |
 
 ## Status
 
