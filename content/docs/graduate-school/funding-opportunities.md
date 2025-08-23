@@ -9,6 +9,10 @@ summary: >
 You will typically enter the lab with guaranteed funding from a combination of Research Assistantships (RAs; to work on grant funded research), Teaching Assistantships (TAs; helping to teach college courses), and University Fellowships (conceptually support to work on your own research, but at UF these typically also include a TA requirement).
 If students are interested there are additional opportunities to apply for fellowships that can allow you to focus more directly your research projects.
 
+## PhD Students prior to starting the program
+
+- [Simons Graduate Fellowships in Ecology and Evolution](https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/)
+
 ## Students who are US citizens, US nationals, or permanent residents
 
 - [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
