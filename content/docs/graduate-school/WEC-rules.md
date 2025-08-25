@@ -30,7 +30,9 @@ Clarifications on this section:
 
 * You need 90 credits to get a PhD, but it doesn't actually matter where those credits come from. You don't need 30 credits from a master's, for example. The list in this section of the Handbook is just one possible way to divvy up credits. 
 
-* Many things can be petitioned, just make sure your committee is on board with this. Your advisor creates the petition, with the support of your committee members, and then gives it to the graduate coordinator for approval. 
+* Many things can be petitioned, just make sure your committee is on board with this. Your advisor creates the petition, with the support of your committee members, and then gives it to the graduate coordinator for approval.
+
+* Research credits goes under Advanced Research (WIS7979) - confirm with Ethan or Morgan before applying. 
 
 * Credits that are transferred to UF initially only count towards total number of credits for PhD, and then your committee decides what the content of those transfer credits count towards, such as if they fulfill areas of emphasis reqs. 
 
