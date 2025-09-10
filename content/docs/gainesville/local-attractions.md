@@ -18,6 +18,7 @@ Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit
 
 ### Outside of town
 * Goethe State Forest
+expansive state land, good for hikes and birding
 * St. Augustine.  
 A nice beach, historic fort & downtown.  
 * Springs  
