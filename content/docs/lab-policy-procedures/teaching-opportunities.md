@@ -1,6 +1,5 @@
 ---
 title: "Teaching Opportunities"
-type: book
 summary: >
   Want to teach, there are lots of ways to teach, here are some options
 ---

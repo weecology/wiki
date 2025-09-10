@@ -1,6 +1,5 @@
 ---
 title: "Create an orthomosaic in Agisoft"
-type: book
 summary: >
   How to build a orthomosaic from raw UAV imagery
 ---

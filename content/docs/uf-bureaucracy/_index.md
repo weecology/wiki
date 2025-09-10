@@ -1,7 +1,6 @@
 ---
 title: "University of Florida Bureaucracy"
 linkTitle: "UF Bureaucracy"
-type: book
 weight: 4
 summary: >
   University of Florida rules and how to navigate them

@@ -1,7 +1,6 @@
 ---
 title: "University of Florida Vehicles"
 linkTitle: "UF Vehicles"
-type: book
 summary: >
   Rules and solutions related to UF Vehicles
 weight: 10

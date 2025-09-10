@@ -1,7 +1,6 @@
 ---
 title: "Collaborating Using Git & GitHub"
 linkTitle: "Git - Collaboration"
-type: book
 summary: " "
 ---
 
@@ -9,7 +8,7 @@ summary: " "
 This is intended to be a default set of procedures for Weecologists to collaborate together using a Git/GitHub repository. For projects that are primarily being worked on by one person, this is probably unnecessary, but you may want to follow this anyway, so as to ingrain the workflow practices.
 
 ## Setup
-*If you haven't done so already, please check out the onboarding [section with links to Git and Github resources](https://github.com/weecology/lab-wiki/wiki/WEecology:-New-Lab-Member-Onboarding#git-and-github).*
+*If you haven't done so already, please check out the onboarding [section with links to Git and Github resources](/docs/getting-started/new-member-onboarding/#git-and-github).*
 
 In this guide, we presume that there is a single repo on GitHub and multiple users, who work on clones of that repo (on their local machines), and interface through GitHub.
 
@@ -127,7 +126,7 @@ This has done several things: it retrieved the branch from GitHub to our local m
 ## Pull Requests
 
 The preference is to use GitHub to merge the updates on a new branch back into `master`. We can do this by going to the "Pull requests" tab on the GitHub repo page and creating a "New pull request".
-![](https://github.com/weecology/lab-wiki/blob/master/github_PR_tab.png)
+![](/docs/computers-and-programming/github_PR_tab.png)
 
 Suppose we want to merge from `hao-test-branch` into `master`. Then we select `master` as the "base: " branch, and `hao-test-branch` as the "compare: " branch. We can then write some comments for our new pull request before clicking on "Create new pull request".
 

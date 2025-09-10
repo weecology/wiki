@@ -1,0 +1,30 @@
+{{/*
+  Custom replacement for the bootstrap style list_children shortcode:
+  https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-bootstrap/layouts/shortcodes/list_children.html
+  
+  Uses the new tailwind card styling:
+  https://github.com/HugoBlox/hugo-blox-builder/blob/e7beed231a8c0f0c60689f27706f99319bfcb3d7/modules/blox-tailwind/layouts/shortcodes/card.html
+  https://github.com/HugoBlox/hugo-blox-builder/blob/e7beed231a8c0f0c60689f27706f99319bfcb3d7/modules/blox-tailwind/layouts/shortcodes/cards.html
+*/}}
+
+<div class="hb-cards mt-4 grid gap-4 not-prose" style="--hb-cols: {{ 2 }};">
+
+{{ if gt (len $.Page.Pages) 0}}
+
+    {{ range $.Page.Pages }}
+
+        {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
+        <a
+          class="hb-card group" href="{{.RelPermalink}}">
+          {{- $padding := "p-4" -}}
+          <span class="hb-card-title {{ $padding }}">
+            {{ partial "functions/get_icon" (dict "name" "document" "attributes" "style=\"height: 1em; width: 1em;\"") -}}
+            {{ .LinkTitle | default (title .File.TranslationBaseName) }}
+          </span>
+        </a>
+
+    {{end}}
+
+{{end}}
+
+</div>

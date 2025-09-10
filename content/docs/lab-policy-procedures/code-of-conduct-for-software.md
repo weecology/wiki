@@ -1,7 +1,6 @@
 ---
 title: Software Project Code of Conduct
 linkTitle: Software Code of Conduct
-type: book
 summary: >
   A standard code of conduct to be applied to group software projects
 ---

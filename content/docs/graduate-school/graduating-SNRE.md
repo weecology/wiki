@@ -1,13 +1,12 @@
 ---
 title: Graduating - SNRE
-type: book
 summary: >
   How to finish your MS or PhD if you're in the SNRE program at the University of Florida
 ---
 
 This document outlines the official steps required by SNRE and the UF Grad school to graduate. 
 
-Notes I'll be making as I move toward graduation. This will eventually compliment [these notes](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating).
+Notes I'll be making as I move toward graduation. This will eventually compliment [these notes](/docs/graduate-school/graduating/).
 
 ## SNRE Checklist
 ### Course requirements (See SNRE Plan of Study form for details)
@@ -34,7 +33,7 @@ The UF Graduate school requires:
 - Submit the Graduate Survey
 - Submit the Proquest agreement
 
-All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp). They also have very strict deadlines outlined below. There is also an [official checklist](http://graduateschool.ufl.edu/graduate-life/graduation/graduation-checklist/).
+All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.aspx). They also have very strict deadlines outlined below. There is also an [official checklist](http://graduateschool.ufl.edu/graduate-life/graduation/graduation-checklist/).
 
 ## Other Notes
 
@@ -55,7 +54,7 @@ Start discussing defense/graduation least 2 semesters *before* you intend to fin
 | Dissertation Final Submission | Late in semester                     |  The dissertation must be *done* at this point and approved by all committee members.    
 | Dissertation Final Approval (aka Final clearance)   | End of semester                     |  The dissertation must be *accepted* by the editorial office by this deadline. |   |
 
-Deadlines change by a few days every semester but are generally around the same time. Official deadlines are available at the [Editorial Office](http://graduateschool.ufl.edu/about-us/offices/editorial/editorial-deadlines/) and the [Graduate School Academic Calendar](http://gradcatalog.ufl.edu/content.php?catoid=12&navoid=2681).
+Deadlines change by a few days every semester but are generally around the same time. Official deadlines are available at the [Editorial Office](https://success.grad.ufl.edu/td/deadlines/) and the [Graduate School Academic Calendar](https://gradcatalog.ufl.edu/graduate/calendar/).
 
 ## Dissertation Submission
 You'll go thru several rounds of submission. The first must be by the 1st submission deadline. In this case the dissertation does *not* have to be done, a single chapter will do. It's mostly a formatting check. You'll get feedback on this version which you'll need to implement in your final version. 
@@ -77,7 +76,7 @@ Your chapters must form one cohesive work. As this is rarely the case with disse
 
 You must have an Introduction chapter and a Conclusion chapter. These do not need to be full length chapters, just a quick introduction and outlining the contents for the intro, and a wrap up for the conclusion. Shawn's dissertation was composed of 3 already published manuscripts. The Introduction was the first 1-2 paragraphs from each paper's Intro, while the conclusion was the last paragraph from each conclusion. They were modified slightly to make them read as one, and each was only 2 pages double spaced. 
 
-You should utilize one of formatting templates here [http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/](http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/).   
+You should utilize one of formatting templates here [https://it.ufl.edu/helpdesk/graduate-resources/ms-word--latex-templates/](https://it.ufl.edu/helpdesk/graduate-resources/ms-word--latex-templates/).   
 If you're comfortable in Latex, absolutely use that. There is a template on Overleaf.com titled "University of Florida Thesis Template". You can see how it was used for a dissertation [here](https://github.com/sdtaylor/dissertation). Also, Kristen Sauby has an [Rmarkdown template using thesisdown](https://github.com/ksauby/thesisdownufl).
 
 ### Other Resources   

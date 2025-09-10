@@ -1,6 +1,5 @@
 ---
 title: "Lab Coding Guidelines"
-type: book
 summary: " "
 ---
 

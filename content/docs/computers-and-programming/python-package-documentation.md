@@ -1,7 +1,6 @@
 ---
 title: "Python - Package Documentation"
 linkTitle: "Python - Package Docs"
-type: book
 summary: " "
 ---
 
@@ -46,7 +45,7 @@ extensions = ['myst_parser',
 ### Setup automatic function documentation
 
 ```sh
-sphinx-apidoc -f  -o source ../\<package-name\>
+sphinx-apidoc -f  -o source ../<package-name>
 ```
 
 ### Change the theme

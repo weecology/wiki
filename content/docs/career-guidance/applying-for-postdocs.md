@@ -2,31 +2,25 @@
 title: "Applying For Postdoc Positions"
 linkTitle: "Applying For Postdocs"
 date: 2017-01-05
-type: book
 summary: >
   Advice when applying to and interviewing for post doc positions.
 ---
 
 ## Funding
 
-Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
+- Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
 https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
-
-Beckman Postdoctoral Fellows (http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
-
-"Understanding Dynamic and Multi-scale Systems" at the McDonnell Foundation that might be a good fit for several folks in the group https://www.jsmf.org/apply/fellowship/index.htm 
+- [Beckman Postdoctoral Fellows](http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
+- [Gulf Research Program’s Science Policy Fellowship](https://www.nationalacademies.org/our-work/science-policy-fellowship/for-applicants). For folks interested in government and NGO science roles this is an opportunity to get a years worth of post-PhD experience working "on the staff of federal, state, local, or non-governmental environmental, natural resource, oil and gas, and public health agencies in the Gulf of Mexico region"
 
 ## Finding a position
 
 There are also many sites where people who may already have money for a postdoc post ads (get paid from someone else's grant = less freedom to do what you want):
 
-ECOLOG listserv https://listserv.umd.edu/archives/ecolog-l.html
-
-Texas A&M job board http://wfscjobs.tamu.edu/job-board/
-
-Society for Conservation Biology http://careers.conbio.org/jobs/
-
-ESA job board https://www.esa.org/esa/careers-and-certification/job-board/
+* [ECOLOG listserv](https://www.esa.org/membership/ecolog/)
+* [Texas A&M job board](http://wfscjobs.tamu.edu/job-board/)
+* [Society for Conservation Biology](http://careers.conbio.org/jobs/)
+* [ESA job board](https://www.esa.org/esa/careers-and-certification/job-board/)
 
 ## Investigate the lab
 

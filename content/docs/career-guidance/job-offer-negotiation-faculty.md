@@ -1,6 +1,5 @@
 ---
 title: "Faculty Job Offer Negotiation"
-type: book
 summary: >
   How to negotiate after being offered a faculty position
 ---

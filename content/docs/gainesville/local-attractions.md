@@ -1,6 +1,5 @@
 ---
 title: Things to do in Gainesville
-type: book
 summary: >
   Fun things to do in and around Gainesville
 ---
@@ -18,6 +17,8 @@ Large sink hole with 200 step staircase going down into it. A short nature trail
 Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit early in the morning or late in the afternoon.
 
 ### Outside of town
+* Goethe State Forest
+expansive state land, good for hikes and birding
 * St. Augustine.  
 A nice beach, historic fort & downtown.  
 * Springs  
@@ -25,12 +26,14 @@ Numerous springs around Gainesville worth a visit. Most are state parks and have
 
 ## Food
 * East End Eatery - Great breakfast, closes after lunchtime.
-* Satchel's Pizza - 
+* Satchel's Pizza - local institution. good pizza. serves beer and house-made sodas. 
 * The Top - Good food all around, large beer collection
 * Boca Fiesta - Good mexican food
 * La Tienda - **Really** good mexican food. 
 * Sweetberries - Great sandwiches and ice cream, close to campus.
 * Mi Apa Latin Cafe - **Really** good Cuban food
+* Flatfish Donut Shop - Great Donuts!
+* Baker Baker - excellent bakert and very reasonably priced. Runs out early, so if it's 10 am you are WAY too late.
 
 ## Bike Shops
 * Reitz Union has a student bike repair shop -- services (basic?) are [free](https://www.sg.ufl.edu/BikeRepair).

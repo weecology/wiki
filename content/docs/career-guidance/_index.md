@@ -2,7 +2,6 @@
 title: "Career Guidance"
 linkTitle: "Career Guidance"
 weight: 4
-type: book
 summary: >
   What career is right for you and how do you get there 
 ---

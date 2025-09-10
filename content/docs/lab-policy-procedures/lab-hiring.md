@@ -1,6 +1,5 @@
 ---
 title: Lab Hiring Processes
-type: book
 summary: >
   How we advertise, review, and recruit folks
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Software Testing in R"
-type: book
 summary: " "
 ---
 

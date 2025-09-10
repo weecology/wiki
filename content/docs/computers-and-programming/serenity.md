@@ -1,7 +1,6 @@
 ---
 title: "Lab Server - Serenity"
 linkTitle: "Lab Server"
-type: book
 summary: >
   How to access and work with the lab server
 ---
@@ -33,6 +32,6 @@ OR
 
 `sudo passwd username`
 
-[To set up ssh keys](https://github.com/weecology/lab-wiki/wiki/Programming:-SSH-&-SSH-keys-for-GitHub---Serenity---etc) 
+[To set up ssh keys](/docs/computers-and-programming/ssh/#setup-instructions-serenity--hipergator--generic) 
  
-[RStudio on serenity](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-on-serenity)
+[RStudio on serenity](/docs/computers-and-programming/rstudio-on-serenity/)

@@ -1,6 +1,5 @@
 ---
 title: "Authorship"
-type: book
 summary: >
   How to navigate the process of determining authorship
 ---

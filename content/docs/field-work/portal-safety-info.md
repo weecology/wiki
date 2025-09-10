@@ -1,6 +1,5 @@
 ---
 title: Portal Safety
-type: book
 summary: " "
 ---
 
@@ -14,10 +13,20 @@ Your Name
 Your county (Cochise if at the site, in the mountains, or at Portal town. Hidalgo if you are in New Mexico)
 What is your emergency.
 
-(From the [Friends of Cave Creek Canyon website](http://www.friendsofcavecreekcanyon.com/visiting/medical-emergencies/) "Portal and Rodeo both have excellent EMT, ambulance and search and rescue capabilities. Dialing 911 from a cell phone will connect you to the Hidalgo County, NM, emergency center. If you are in Arizona, ask them to transfer the call to Cochise County, AZ."
-
 ### Non-Emergency Medical Services: 
-(From the [Friends of Cave Creek Canyon website](http://www.friendsofcavecreekcanyon.com/visiting/medical-emergencies/) "There is a medical clinic in Portal staffed by a Nurse Practitioner on Tuesday mornings and Thursday and Friday afternoons. There is a walk-in urgent care facility in Douglas, about 60 minutes south on Route 80. (520-364-7659). The closest hospitals are in Willcox, about 90 minutes northwest by car and in Bisbee, about 90 minutes southwest by car. Portal and Rodeo both have excellent EMT, ambulance and search and rescue capabilities."
+[Cochise County Search and Rescue](https://cochise.az.gov/520/Search-Rescue)
+
+[Portal Fire and Rescue](https://www.facebook.com/PortalFireRescue/)
+
+[Portal-Rodeo Community](https://portal-rodeo.com/portal-rescue.html)
+
+[Friends of Cave Creek Canyon](http://www.friendsofcavecreekcanyon.com/visiting/medical-emergencies/)
+
+There is a medical clinic in Portal staffed by a Nurse Practitioner on Tuesday mornings and Thursday and Friday afternoons. 
+
+Some emergency personnel will generally be on call in the Portal area, or someone at the Portal store or Sky Island Grill will know where they are. Lately, we've met Marty Allred of Cochise County Search and Rescue, and Carolyn Nordstrom of Portal Fire and Rescue.
+
+There is a walk-in urgent care facility in Douglas, about 60 minutes south on Route 80. (520-364-7659). The closest hospitals are in Willcox, about 90 minutes northwest by car and in Bisbee, about 90 minutes southwest by car. Portal and Rodeo both have excellent EMT, ambulance and search and rescue capabilities.
 
 #### Urgent Care
 Copper Queen Community Hospital Douglas Rural Health Clinic: There is an "Emergency Department" which is open 24-hours a day, including weekends and holidays. It describes itself as "urgent care on steroids". Anything serious (i.e. potentially life threatening, should be a 9-1-1 call. If you get really sick or experience a non-life threatening injury, then this is probably where you want to go.
@@ -54,8 +63,6 @@ Rabies: This is theoretically a risk from fieldwork at the site but transmission
 Bubonic Plague or other ectoparasite carried diseases: There are no incidents of bubonic plague in humans near our field site (https://www.cdc.gov/plague/maps/index.html) so this is considered a very unlikely event. However, our animals do have ectoparasites. We have seen no evidence of these ectoparasites jumping to humans (no one becomes flea infested or has found themselves with ticks), but people should inspect themselves after being in the field.
 
 ### Humans
-
-Alan's dogs notice anyone traveling on the road to the site off of Desert Willow. 
 
 There are pepper spray guns in the driver and passenger door wells of the truck.
 

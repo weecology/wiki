@@ -1,7 +1,6 @@
 ---
 title: "Graduating"
 linkTitle: "Graduating"
-type: book
 weight: 4
 summary: >
   How to finish your MS or PhD at the University of Florida
@@ -59,7 +58,7 @@ There’s a lot of bureaucracy at UF related to graduating. This list provides t
 
 4) Formatting your dissertation
     * There are a variety of sections that you don’t normally have in a paper that you need for a dissertation (Acknolwegdments, Introductory and Concluding chapter, etc). Seeing examples can be helpful. You can search for and download recent dissertations from your department here: http://cms.uflib.ufl.edu/etd/searchuf
-    * Formatting will be annoying. There's an office to help you/tell you you're doing it wrong. They recommend downloading the dissertation template [here](http://helpdesk.ufl.edu/application-support-center/graduate-editorial-office/) and just pasting your own text into the appropriate sections. They seem to be moving pages around on their help website and breaking links all the time, but at this moment there are some examples of things like table of contents [here](http://graduateschool.ufl.edu/about-us/offices/editorial/format-requirements/).
+    * Formatting will be annoying. There's an office to help you/tell you you're doing it wrong. They recommend downloading the dissertation template [here](https://it.ufl.edu/helpdesk/graduate-resources/ms-word--latex-templates/) and just pasting your own text into the appropriate sections. They seem to be moving pages around on their help website and breaking links all the time, but at this moment there are some examples of things like table of contents [here](http://graduateschool.ufl.edu/about-us/offices/editorial/format-requirements/).
 
 5) First Submission
     * UF requires a draft of your dissertation be turned in very early during the semester you intend to graduate (or defend for Clear Prior). Despite what they say, your dissertation doesn't need to be "done" by first submission. You just need to have some words in all the parts for them to check the formatting. Mine was missing an acknowledgements section: that was one of the things they told me I needed to change. However the more complete your dissertation is at this point, the easier final submission will be.
