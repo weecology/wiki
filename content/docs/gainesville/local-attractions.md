@@ -17,6 +17,7 @@ Large sink hole with 200 step staircase going down into it. A short nature trail
 Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit early in the morning or late in the afternoon.
 
 ### Outside of town
+Goethe State Forest
 * St. Augustine.  
 A nice beach, historic fort & downtown.  
 * Springs  
