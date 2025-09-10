@@ -15,6 +15,7 @@ La Chua trail on the East side of town is where the large alligators are. Lake a
 Large sink hole with 200 step staircase going down into it. A short nature trail surrounding it. Worth seeing but probably not for more than an hour or so. 
 * Sweetwater Wetlands Park  
 Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit early in the morning or late in the afternoon.
+* check out a random coffee shop and buy the most expensive coffee you can find
 
 ### Outside of town
 * St. Augustine.  
