@@ -18,6 +18,8 @@ Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit
 * check out a random coffee shop and buy the most expensive coffee you can find
 
 ### Outside of town
+* Goethe State Forest
+expansive state land, good for hikes and birding
 * St. Augustine.  
 A nice beach, historic fort & downtown.  
 * Springs  
@@ -31,6 +33,7 @@ Numerous springs around Gainesville worth a visit. Most are state parks and have
 * La Tienda - **Really** good mexican food. 
 * Sweetberries - Great sandwiches and ice cream, close to campus.
 * Mi Apa Latin Cafe - **Really** good Cuban food
+* Flatfish Donut Shop - Great Donuts!
 * Baker Baker - excellent bakert and very reasonably priced. Runs out early, so if it's 10 am you are WAY too late.
 
 ## Bike Shops
