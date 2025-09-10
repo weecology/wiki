@@ -30,6 +30,7 @@ Numerous springs around Gainesville worth a visit. Most are state parks and have
 * La Tienda - **Really** good mexican food. 
 * Sweetberries - Great sandwiches and ice cream, close to campus.
 * Mi Apa Latin Cafe - **Really** good Cuban food
+* Flatfish Donut Shop - Great Donuts!
 * Baker Baker - excellent bakert and very reasonably priced. Runs out early, so if it's 10 am you are WAY too late.
 
 ## Bike Shops
