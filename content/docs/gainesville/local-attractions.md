@@ -16,6 +16,7 @@ Large sink hole with 200 step staircase going down into it. A short nature trail
 * Sweetwater Wetlands Park  
 Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit early in the morning or late in the afternoon.
 * check out a random coffee shop and buy the most expensive coffee you can find
+* also buy an expensive steak
 
 ### Outside of town
 * St. Augustine.  
