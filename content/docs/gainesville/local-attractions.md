@@ -5,7 +5,7 @@ summary: >
   Fun things to do in and around Gainesville
 ---
 
-## Things to do when family and friends visit Gainesville
+## Fun things to do visit Gainesville
 
 ###  In town  
 * Natural History Museum / Butterfly Rainforest  
