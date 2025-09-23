@@ -16,7 +16,8 @@ Assuming you're running Ubuntu. Install the cifs-utils package, create a folder 
 ```
 sudo apt-get install cifs-utils
 sudo mkdir /media/T
-sudo mount -t cifs LINK_FROM_INSTRUCTIONS_ABOVE_WITHOUT_SMB_PART /media/T/ -o username=<your-gatorlink>,uid=<your-local-username>
+sudo mount -t cifs LINK_FROM_INSTRUCTIONS_ABOVE_WITHOUT_SMB_PART /media/T/ -o username=<your-gatorlink>,uid=<your-local-username>,gid=<preferred-local-group>
 ```
 
-The full command, including the `LINK_FROM_INSTRUCTIONS_ABOVE_WITHOUT_SMB_PART`, is available for weecology folks as a pinned post on the Hipergator Slack channel.
+The `,gid=<preferred-local-group>` can be left out if no group is needed, but on shared systems (like Serenity) we typically want to include a group so everyone can access the share.
+The full command, including the `LINK_FROM_INSTRUCTIONS_ABOVE_WITHOUT_SMB_PART`, is available for weecology folks as a pinned post on the Serenity and HiPerGator Slack channels.
