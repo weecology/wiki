@@ -31,9 +31,5 @@ sudo mount -t cifs LINK_FROM_INSTRUCTIONS_ABOVE_WITHOUT_SMB_PART /media/T \
   -o username=<your-gatorlink>,uid=$(id -u),gid=$(getent group <preferred-local-group> | cut -d: -f3),file_mode=XXXX,dir_mode=XXXX
 ```
 
-
-
-
-
 The `,gid=<preferred-local-group>` can be left out if no group is needed, but on shared systems (like Serenity) we typically want to include a group so everyone can access the share.
 The full command, including the `LINK_FROM_INSTRUCTIONS_ABOVE_WITHOUT_SMB_PART`, is available for weecology folks as a pinned post on the Serenity and HiPerGator Slack channels.
