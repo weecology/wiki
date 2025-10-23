@@ -1,0 +1,36 @@
+---
+title: "Trello"
+summary: >
+  Using trello and tips
+---
+
+## What is Trello?
+
+Trello is the project management board we use in Weecology to keep track of the dizzying array of things going on in the lab from field project logistics to research project progress. If you're a graduate student, postdoc, or staff, you will be set up with an account
+
+## How is Trello structured?
+
+Trello is structured around "Boards". We have assigned themes to each board (i.e. Portal Logistics, Computer Vision, Everglades Logistics, Portal Research etc). On each board are cards that help us keep track of tasks. 
+
+We have structure boards so that card exist in one of 4 columns: 
+* To Do (things we are not working on actively but need to do this semester, 
+* Doing (things people are working on right now), 
+* Waiting (when a task is waiting for someone ouside the group), 
+* Done (yay we never have to think about this again).
+
+Cards should move between columns as they transition from one stage to the next.
+
+## Cards
+
+We generate cards to keep track of tasks. Cards can be as simple as just a title or involve attached files, to do lists and conversations. It just depends on the complexity of the task involved. You can assign cards or specific to do items to other people in the group. 
+
+## Help I have cards on multiple boards and can't keep track of what is actively on my plate
+
+You can generate a list of cards that are in the doing column assigned to you by following the following steps:
+* Click on Search Trello bar at tope of site
+* Select Advanced Search 
+* You can then give it whatever search criteria you wish. If you want to find the things assigned to you only on Doing lists across all the boards
+      @yourusernme list:doing is:open
+* You can save the search so the next time you select advanced search you don't have to remember the magic incantation
+ 
+
