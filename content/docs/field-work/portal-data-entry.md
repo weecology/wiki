@@ -56,7 +56,11 @@ summary: " "
   Note: If you are using a Windows Machine:
     * line 20 (filepath= "") should have 2 back slashes after each location (Ex.: filepath= D:\\Dropbox\\Portal\\PORTAL_primary_data\\Rodent\\Raw_data\\New_data)
     * line 22 (newfile=""), there should be 2 back slashesbefore the word newdat (Ex.: paste(filepath, '\\newdat', newperiod, '.xlsx', sep = ''))
-    * line 23 (scannerfile=""), there should be 2 back slashes before the phrase tag scans and tags (Ex.: paste(filepath, '\\tag scans\\tags', newperiod, '.txt', sep = ''))  
+    * line 23 (scannerfile=""), there should be 2 back slashes before the phrase tag scans and tags (Ex.: paste(filepath, '\\tag scans\\tags', newperiod, '.txt', sep = ''))
+  Note: If you are using a Mac Machine:
+    * line 20 (filepath="") should look like this in terms of slashes. Ex: filepath = "~/Dropbox/Portal/PORTAL_primary_data/Rodent/Raw_data/New_data"
+    * line 22 (newfile=""), there should be a forward slash before the word newdat. Example: newfile = paste(filepath, '/newdat', newperiod, '.xlsx', sep = '')
+    * line 23 (scannerfile=""), there should be a forward slash before the phrase tag scans and tags. Example: scannerfile = paste(filepath, '/tag scans/tags', newperiod, '.txt', sep = '')
   - Run line 29. Corect the .xlsx worksheets until they match.
   - Once the sheets are identical, run lines 36 to 38. If errors pop up, update Excel file and note changes in the red notebook.
   - Run subsequent lines and make necessary changes. Note them in the red notebok. This is so we can track the decisions on the species/sex/etc. IDs that were made. scan previous months' corrections to make sure you're not 'correcting' the same individuals back and forth.
