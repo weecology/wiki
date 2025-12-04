@@ -38,6 +38,7 @@ summary: " "
 ###   Data QA  
 
 * In GitHub (remote):
+  - Refer to .githooks README [here](.githooks/README.md) and this only needs to be done once, and the readme explains how to use the version tags. Version tags will be needed when a new commit is done.
  - Make sure you have write access to the PortalData repo (ask Glenda about this).  
   - clone the repo by following the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Note: You only need to do this once.
   - create new branch and rename it to: rodents_censusperiod (Make sure you are in the correct repo: PortalData). Follow instructions [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository). 
@@ -56,13 +57,15 @@ summary: " "
   Note: If you are using a Windows Machine:
     * line 20 (filepath= "") should have 2 back slashes after each location (Ex.: filepath= D:\\Dropbox\\Portal\\PORTAL_primary_data\\Rodent\\Raw_data\\New_data)
     * line 22 (newfile=""), there should be 2 back slashesbefore the word newdat (Ex.: paste(filepath, '\\newdat', newperiod, '.xlsx', sep = ''))
-    * line 23 (scannerfile=""), there should be 2 back slashes before the phrase tag scans and tags (Ex.: paste(filepath, '\\tag scans\\tags', newperiod, '.txt', sep = ''))  
+    * line 23 (scannerfile=""), there should be 2 back slashes before the phrase tag scans and tags (Ex.: paste(filepath, '\\tag scans\\tags', newperiod, '.txt', sep = ''))
+
+ 
   - Run line 29. Corect the .xlsx worksheets until they match.
   - Once the sheets are identical, run lines 36 to 38. If errors pop up, update Excel file and note changes in the red notebook.
   - Run subsequent lines and make necessary changes. Note them in the red notebok. This is so we can track the decisions on the species/sex/etc. IDs that were made. scan previous months' corrections to make sure you're not 'correcting' the same individuals back and forth.
   - Save R file.
   - Push to GitHub repo by clicking on the Git tab in RStudio, and selecting the files that were updated (Usually, this includes 2 files: new_rodent_data.r and Portal_rodent.csv).
-  - make sure to write an intuitive commit message. Ex.: add rodent census XXX data [minor]).
+  - make sure to write an intuitive commit message. Ex.: add rodent census XXX data [minor]). This [minor] message is a githook, which is needed to commit new messages. 
 
 * In Github:
   - Go to the Weecology PortalData repo and click the message that says a new commit has been pushed by you.
