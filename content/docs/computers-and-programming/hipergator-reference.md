@@ -530,6 +530,17 @@ for the normal queue, and
 `sacctmgr show qos ewhite-b format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
 for the "burst" queue.   
 
+If you want to look at the active resource use by a current job (i.e., how much of the requested resources are actually being used by the code):
+
+```sh
+ml ufrc
+
+jobhtop JOBID # Displays CPU and RAM resource usage for running jobs
+jobnvtop JOBID #Displays GPU resource usage for running GPU jobs
+```
+
+Both of these take a while to start (up to ~2 min).
+
 ## Partitions
 
 The HiperGator consists of hundreds of servers. These a split up into several "partitions" for various reasons.
@@ -634,4 +645,3 @@ To grant access to the server, please log into https://github.com/login/device a
 <img width="972" alt="image" src="https://github.com/weecology/wiki/assets/1208492/6fc30817-5e84-4350-bebf-be6318ebbc69">
 
 Success! Now you are the GPU node and can debug and run with those resources!
-
