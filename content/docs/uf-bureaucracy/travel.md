@@ -84,7 +84,8 @@ Once all your travel is completed and you have all your receipts ready to upload
 * Mileage
   - Similar to per diem, you cannot get reimbursed for fuel put in your personal vehicle. So no need to save receipts.
   - You are compensated for the use of your vehicle with a mileage calculation ($0.445/mile).
-  - The mileage compensation is not for long distance trips. If you are traveling a significant distance by car for a work trip, you should be using a UF vehicle or a rental vehicle. If you must use a personal vehicle, do not enter the total mileage calculation, only the amount actually spent on fuel.
+  - Attach a Maps screenshot showing the beginning, end, and mileage for the trip.
+  - The mileage compensation is not for long-distance trips. If you are traveling a significant distance by car for a work trip, you should be using a UF vehicle or a rental vehicle. If you must use a personal vehicle, do not enter the total mileage calculation, only the amount actually spent on fuel.
   - If the trip is long because it is combined with personal travel, use a rental vehicle and pay personally for the rental fee on the personal leg of the trip.
 * WEC Fiscal Staff will email you a copy of report when ready to approve.
 * Log into UFGO (concursolutions.com).
