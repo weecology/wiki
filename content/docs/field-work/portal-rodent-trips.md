@@ -3,14 +3,17 @@ title: Portal Field Trips
 summary: " "
 ---
 
+Also read the main [Travel page](https://wiki.weecology.org/docs/uf-bureaucracy/travel/) to get a general intro to how travel paperwork works at UF.
+
 ## Pre-trip Preparations  
 
 1. Add census dates to Portal Google calendar
 2. Put together field crew.
    * During the summer months, a crew of 4 (including RA) is ideal for the rodent census. Portal plant census trips may benefit from more people.
-   * "Local" volunteers (Tucson-based folks) sign up in this [form](https://forms.gle/6XXCzp5bUzgG6XNA9).
+   * Use "Local" volunteers as much as possible (UA undergrads or other Tucson-based folks). Advertise at UA with a link to sign up in a Google form.
+   * You are also welcome to bring other students from UF or friends from other locations.
 3. Submit the volunteer form for any new volunteers that need reimbursement or if you are purchasing any travel for them:
-   * [WEC - POI Guest, Volunteer Request](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3D-KBNDTFKdk2s5gpiMx4bhGicOwDMKeFOrgQpJC5WLa1UQUIzSEtWT0tVUEY1SzVDUUsxQzJSSTM5TiQlQCN0PWcu&data=05%7C02%7Cgmyenni%40ufl.edu%7Cdbd63a14bb314ae5673408dd09a40e93%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638677322405818577%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GKm3AtiUgNKVMEqWksXO3pjI1DgrOdRVvNwhp7RIPW8%3D&reserved=0)
+   * [WEC - POI Guest, Volunteer Request](http://wec.ifas.ufl.edu/resources/personnel/)
    * Select **Both** Travel POI and Volunteer Request
    * University of Florida Affiliation Status - Volunteer
      * Even grad students at UF should choose the status Volunteer.
@@ -73,13 +76,12 @@ The following rodent trapping-related field guides are in the Portal Dropbox for
     * Drop off field truck at the off airport poarking lot. **Remember to take a photo of the stub/card they give you in the free shuttle.** 
 3. Complete Travel
     * Submit receipts of PCard purchases (lodging, baggage, fuel, field gear, trapping supplies, etc.) using the [PCard Receipt Submision Form](https://wec.ifas.ufl.edu/resources/ufgo-pcard-forms/)
-    * Fill in [mileage log](https://wec.ifas.ufl.edu/media/wecifasufledu/files/Vehicle-Use-Record-Mileage.pdf) and send to WEC Operations Manager (currently, Cameron Carter (ccriderr@ufl.edu)) and CC WEC Fiscal (wecfiscal@ifas.ufl.edu). Note: You have until the fifth day of the next month to submit the log from the previous month.
-    * Submit a [Travel Expense Report](https://wec.ifas.ufl.edu/resources/ufgo-travel-forms/) for yourself and all non-UF travelers within a week of returning from the trip.
+    * Fill in [mileage log](https://wec.ifas.ufl.edu/resources/vehicles/) and send to WEC Operations Manager (currently, Cameron Carter (ccriderr@ufl.edu)) and CC WEC Fiscal (wecfiscal@ifas.ufl.edu). Note: You have until the fifth day of the next month to submit the log from the previous month.
+    * Submit a [Travel Expense Report](http://wec.ifas.ufl.edu/resources/ufgo-travel-forms/) for yourself and all non-UF travelers within a week of returning from the trip.
     * Send the [Travel Expense Report](https://wec.ifas.ufl.edu/resources/ufgo-travel-forms/) to all UF travelers and remind them to submit.
 4. Enter and QA rodent/plant data by following the instructions in the relevant section under Portal Data Entry.
 5. Download camera trap photos.
-    * Use The Reconyx Buckview Software (on the Surface Pro) to go through the photos before depositing in the drive.
-    * Deposit on the lab T: drive in the appropriate folders: portal_cameras-> year_folder(Ex. 2024)-> year-month_folder (Ex. 2024-05) -> location.
+    * Deposit in the portal-cameras Dropbox in the appropriate folders: portal_cameras-> year_folder(Ex. 2024)-> year-month_folder (Ex. 2024-05) -> location.
 
 ## Things to pack
 
