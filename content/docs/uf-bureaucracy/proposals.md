@@ -22,11 +22,11 @@ When starting a new proposal, send Glenda the following information:
   * Other expenses
   * Participant support
   * Subawards
-* F&A Base (TDC or MTDC)
-* F&A rate
+* Any information you have to determine F&A (Indirect costs) base and rate
 
 Create a new Weecology Shared Drive folder with the name of the sponsor, or a new year within an existing folder. 
 All documents required for the proposal must be included in this Drive folder.
+
 Create a Trello card using the proposal template checklist. Link the Drive folder on this card.
 
 ### Budget
@@ -42,6 +42,17 @@ Create a Trello card using the proposal template checklist. Link the Drive folde
 * Include salary/wage, time commitments, fringe, and cost of living increase in personnel description.
 * Travel costs and other complicated calculations should be itemized in a table.
 * Include justification for F&A rate.
+
+### F&A
+#### [Negotiated Rates](https://research.ufl.edu/services/dsp/proposals/budgeting/fa-rates-idc)
+* NSF: 53.5%
+* US Army Corps: 17.5%
+
+#### Off Campus
+The off-campus rate should be applied if the activity is conducted in any buildings that are not owned and maintained by UF and which rent is directly allocated to the project. Off-campus F&A can only be charged to projects where rent (which may be in the form of janitorial services, building maintenance, etc.) is directly charged to the project.
+* Travel costs, field work and Institute of Food and Agricultural Sciences Research & Education Centers do not qualify for the off campus rate.
+* Renting a conference room (hotel, conference center, etc.) is generally considered: Temporary or incidental space, not the primary project location A direct cost (meeting expense), not facility rent that replaces UF space. UF also explicitly notes that things like travel, field work, or short‑term space use do not qualify for a project for the off‑campus rate. Conference space falls into this same category.
+
 
 ### [Subawards](https://research.ufl.edu/services/dsp/outgoing-subawards/subawards-at-the-time-of-proposal-processing)
 
@@ -72,15 +83,15 @@ If your proposal does not apply to some of the below items just leave it blank o
 
 PROPOSAL DETAILS
 * Principal Investigator / Program Director / Fellow:
-  * Only use the Mentor field for fellowships, training grants, dissertation awards or similar student augmentation awards where a student or postdoc must be listed as PI on the application. For multi-PI applications, select the contact PI. The Contact PI will be responsible for relaying communications between all of the PIs, University Officials and the Sponsor, where appropriate.
 * Co-PI:
-  * Enter the department they are from if not WEC
 * Identify the Mentor / Responsible Faculty Member:
+  - *Only use the Mentor field for fellowships, training grants, dissertation awards or similar student augmentation awards where a student or postdoc must be listed as PI on the application. For multi-PI applications, select the contact PI. The Contact PI will be responsible for relaying communications between all of the PIs, University Officials and the Sponsor, where appropriate.
+Enter the department they are from if not WEC.*
  
 * Submission Deadline:
-  * Reminder UF has a deadline policy that all proposals must be submitted and submission ready 6 working days prior to deadline, this allows 1 day for RA, 3 days for IFAS, 2 days for DSP, any announcement less than 30 days is exempt from the deadline policy.
+  - *Proposals must be submitted 6 working days prior to deadline unless the announcement was <30 days before the deadline.*
 * Is this a Published/Hard Deadline or a Target Deadline
-  * Submission deadline is the actual sponsor deadline. If there is no sponsor deadline select “No Deadline”.
+  - *Submission deadline is the actual sponsor deadline. If there is no sponsor deadline select “No Deadline”. If the sponsor has communicated a deadline via email provide a pdf of that email as part of the submission.*
 * Full Title of Proposal:
 * Sponsor Name:
  
@@ -98,28 +109,27 @@ PROPOSAL DETAILS
 * Type of Application: 
   * Pre-Proposal - Letter of Intent (LOI) / White Papers / New - Initial Request / Resubmission - Unfunded application that has been modified following initial review and resubmitted for new consideration / Renewal - Initial request for additional funding for a period subsequent to that provided by a current award. / Continuation - Subsequent budget period within a previously approved project / Revision - Update or improved
 * Identify Subrecipient Organizations:
-  * Subrecipient organizations outside UF receiving funding from this project.
 * Identify any third party organizations (unpaid collaborators, provider of third party cost sharing, or other materials) involved in the project:
-  * Organizations outside UF with whom UF is collaborating but not paying as a vendor or subrecipient, or who is providing support, resources, information, or equipment for this project.
+  - *Organizations outside UF with whom UF is collaborating but not paying as a vendor or subrecipient, or who is providing support, resources, information, or equipment for this project.*
 * Provide any additional information that would be useful for this review:
 * Opportunity ID or CFDA # or RFA #
-  * Add the link to the solicitation or portal or website
+  - *Add the link to the solicitation or portal or website*
 
 * Senior / Key Person – 1.  Names 2.  Department Name 3. Role
-  * Example: Ally Gator – UF Department – Co-PI
-  * Role Options – Co-PI, Faculty, Post Doc, Consultant, Co-Investigator, Other (Specify)
+  * *Example: Ally Gator – UF Department – Co-PI*
+  * *Role Options – Co-PI, Faculty, Post Doc, Consultant, Co-Investigator, Other (Specify)*
  
 * Other Significant Contributor – 1.  Names 2.  Department Name 3. Role
-  * Example: Ally Gator – UF Department – Post Doc
-  * Role Options – Faculty, Post Doc, Consultant, Other Professional, Technician, Other (Specify)
+  * *Example: Ally Gator – UF Department – Post Doc*
+  * *Role Options – Faculty, Post Doc, Consultant, Other Professional, Technician, Other (Specify)*
  
 * Other Non-Key Personnel – 1.  Names 2.  Department Name 3. Role
-  * Example: Ally Gator – UF Department – Other Professional
-  * Role Options – Faculty, Post Doc, Other Professional, Graduate Student, Undergraduate Student, Technician, Secretarial/Clerical, Other (Specify)
+  * *Example: Ally Gator – UF Department – Other Professional*
+  * *Role Options – Faculty, Post Doc, Other Professional, Graduate Student, Undergraduate Student, Technician, Secretarial/Clerical, Other (Specify)*
 
 * All Non-UF Key Personnel Named in Proposal
-  * List out any third-party organizations (unpaid collaborators, provider of third-party cost sharing, or other materials) involved in the project: Organizations outside UF with whom UF is collaborating but not paying as a vendor or subrecipient, or who is providing support, resources, information, or equipment for this project.
-  * Example: First Name – Last Name – Organization Name
+  * *List out any third-party organizations (unpaid collaborators, provider of third-party cost sharing, or other materials) involved in the project: Organizations outside UF with whom UF is collaborating but not paying as a vendor or subrecipient, or who is providing support, resources, information, or equipment for this project.*
+  * *Format: First Name – Last Name – Organization Name*
 
 * IRB - Human subjects including human data or tissue or collection of data through surveys: Yes/No
  
@@ -128,16 +138,14 @@ PROPOSAL DETAILS
 * Does the proposed research fall within the scope of, or is it impacted by, current U.S. government policies, regulations, and laws on dual-use research of concern, gain-of-function research, or research involving pathogens with enhanced pandemic potential? Yes/No
 
 * Is this proposal being considered for funding through a peer reviewed process?
-  * Is this proposal being considered for funding in a competitive process whereby peers evaluate this application against other applicants vying for the same funds?
+  * *ie A competitive process whereby peers evaluate this application against other applicants vying for the same funds?*
 
-* What is the Primary Purpose of this project?
+* What is the Primary Purpose of this project? (provide a single answer)
   * Research, Instruction, Extension
-  * Example: 60% Research, 30% Instruction, 10% Extension
-  * The primary purpose is determined by the majority of the budget.
-  * For informational purposes, provide a breakout of the budget based upon activities described in the scope of the work.
-  * Instruction includes instruction of UF students
-  * Extension includes instruction/outreach to non-UF participants/students
-  * 50/50 is not allowed.
+  * *Breakdown (example): 60% Research, 30% Instruction, 10% Extension*
+  * *Instruction includes instruction of UF students*
+  * *Extension includes instruction/outreach to non-UF participants/students*
+  * *50/50 is not allowed.*
 
 INTERNATIONAL ENGAGEMENT
 
