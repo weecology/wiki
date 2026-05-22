@@ -44,14 +44,23 @@ Create a Trello card using the proposal template checklist. Link the Drive folde
 * Include justification for F&A rate.
 
 ### F&A
-#### [Negotiated Rates](https://research.ufl.edu/services/dsp/proposals/budgeting/fa-rates-idc)
-* NSF: 53.5%
-* US Army Corps: 17.5%
+#### Standard Rates
+* *NSF* & programs without declared F&A rates: The default F&A rate is the federally negotiated rate, which applies to NSF and most standard federal proposals. Check the current rate on the [Negotiated Rates](https://research.ufl.edu/services/dsp/proposals/budgeting/fa-rates-idc) section of UF's F&A page. Use the "Sponsors without a pre-approved exemption", "Research", "On-campus" unless otherwise discussed. See [Off Campus](#off-campus) for discussion of cases where off-campus rates may apply.
+
+* *US Army Corps*, *BOEM/MMA*, and other CESU grants: UF is part of three Cooperative Ecosystem Studies Units (CESUs) that have fixed F&A rates. Our US Army Corps funding (Everglades monitoring) and BOEM/MMA funding is routed through this system. The rate is currently 17.5%, but can be checked on the [UF CESU page](https://research.ufl.edu/services/dsp/proposals/budgeting/cooperative-ecosystem-studies-units-cesu)
+
+#### Non-standard rates
+* Non-profits, private foundations, and other smaller funding bodies often set their own F&A rates.
+* Start by checking the RFP/solicitation to see if it lists a maximum F&A/IDC rate
+* If it doesn't try searching the sponsors site for a page on "indirect costs", "IDC", "Facilities and administration", or "F&A"
+* If this information is available record the specific language associated with that rate to help determine if it is a percentage of "Modified Total Direct Costs", "Total Direct Costs", or "Total Costs" (this changes the details of how F&A is calculated).
+* If this information is not available check with Ethan/Morgan about how to proceed
 
 #### Off Campus
-The off-campus rate should be applied if the activity is conducted in any buildings that are not owned and maintained by UF and which rent is directly allocated to the project. Off-campus F&A can only be charged to projects where rent (which may be in the form of janitorial services, building maintenance, etc.) is directly charged to the project.
+The off-campus rate should be applied if the activity is conducted entirely in locations that are not owned and maintained by UF and for which rent is directly allocated to the project. Off-campus F&A can only be charged to projects where rent (which may be in the form of janitorial services, building maintenance, etc.) is directly charged to the project.
 * Travel costs, field work and Institute of Food and Agricultural Sciences Research & Education Centers do not qualify for the off campus rate.
-* Renting a conference room (hotel, conference center, etc.) is generally considered: Temporary or incidental space, not the primary project location A direct cost (meeting expense), not facility rent that replaces UF space. UF also explicitly notes that things like travel, field work, or short‑term space use do not qualify for a project for the off‑campus rate. Conference space falls into this same category.
+* Renting a conference room (hotel, conference center, etc.) is generally considered "temporary or incidental space" and a "meeting expense", not "facility rent" that replaces UF space. UF also explicitly notes that things like travel, field work, or short‑term space use do not qualify for a project for the off‑campus rate.
+* This rate is rarely approved, so check with the staff prior to working on the budget to see if they think it fits UF requirements.
 
 
 ### [Subawards](https://research.ufl.edu/services/dsp/outgoing-subawards/subawards-at-the-time-of-proposal-processing)
@@ -197,4 +206,3 @@ SUBRECIPIENT(S) (if applicable)
 * Collaborators & Other Affiliations (COA) (Please Attach)
 * Negotiated Facilities and Administrative Cost Agreement (Please Attach)
 * Any Other Documents required by Sponsor (Please Attach)
- 
