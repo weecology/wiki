@@ -6,4 +6,4 @@ summary: >
 
 _Under development_
 
-http://graduateschool.ufl.edu/media/graduate-school/pdf-files/phd-roadmap.pdf
+https://gradadvance.graduateschool.ufl.edu/planning-resources/doctoral-roadmap/
