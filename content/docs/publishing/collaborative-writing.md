@@ -14,7 +14,7 @@ the underlying questions, methodological decisions, visualization and other aspe
 
 ## Step 1
 
-Check with your adviser and collaborators to see if they agree that a set of analyses has reached that poitn that it should be written up as a paper.
+Check with your adviser and collaborators to see if they agree that a set of analyses has reached that point that it should be written up as a paper.
 
 ## Step 2
 
