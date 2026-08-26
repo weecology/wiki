@@ -68,15 +68,18 @@ summary: " "
 
   - Run line 29. Corect the .xlsx worksheets until they match.
   - Once the sheets are identical, run lines 36 to 38. If errors pop up, update Excel file and note changes in the red notebook.
-  - Run subsequent lines and make necessary changes. Note them in the red notebok. This is so we can track the decisions on the species/sex/etc. IDs that were made. Scan previous months' corrections to make sure you're not 'correcting' the same individuals back and forth.
+  - Run subsequent lines and make necessary changes. Note them in the red notebok. This is so we can track the decisions on the species/sex/etc IDs that were made. Scan previous months' corrections to make sure you're not 'correcting' the same individuals back and forth.
   - Save R file.
   - Push to GitHub repo by clicking on the Git tab in RStudio, and selecting the files that were updated (Usually, this includes 2 files: new_rodent_data.r and Portal_rodent.csv).
-  - Make sure to write an intuitive commit message. Ex.: `"Add rodent census XXX data [minor]"`). This `[minor]` tag provides versioning instructions, which is required in new commits.
+  - Make sure to write an intuitive commit message. Ex.: `"Add rodent census XXX data [minor]"`. This `[minor]` tag provides versioning instructions, which is required in new commits.
 
 * In Github:
   - Go to the Weecology [PortalData repo](https://github.com/weecology/PortalData) and click the message that says a new commit has been pushed by you.
-  - Tag Glenda as a reviewer and create a pull request by clicking the create pull request button at the bottom of that page. 
-  - If it passes all checks/tests, you're good to go! Glenda will merge it. If not, go to the PR (pull request) page and read the details where the error occurred. Fix issues accordingly.
+  - Create a pull request (PR) by clicking the create pull request button at the bottom of that page. This will trigger the checks/tests to run.
+  - If it passes all checks/tests, you're good to go! If not, go to the PR page and click on the build status (or go to the Actions tab and find your branch in the list of builds). Click on the build to read the details and find where the error occurred. Fix issues accordingly and push them to your branch to trigger a new build.
+    - Tests may fail as a result of the original data entered. If the problem is something you should have caught in the data entry or cleaning step, you can think about adding an additional step to the cleaning process to prevent the error from happening again.
+    - Or the build may fail at a 'supplementary data' step, when additional scripts get run automatically add data to the plots, trapping and newmoon tables. You may have to run those scripts locally to discover the problem.
+  - Once the PR has passed (all green checks) tag Glenda as a reviewer. She will look over the new data one final time and merge the PR.
 
 ## Plant Data 
   
@@ -129,11 +132,12 @@ summary: " "
   - Run all lines of code and don't forget to update line 28 and 29 to the correct season and year.
   Note: If you are using a Windows Machine:
     * line 30 (filepath= "") should have 2 back slashes after each location (Ex.: filepath= D:\\Dropbox\\Portal\\PORTAL_primary_data\\Plant\\TRANSECTS\\Data_raw\\RawData\\)
+   
+* Follow the steps for QAing the rodent data to create a PR for the new plant data. Again, make sure to write intuitive commit messages every time you push *new* changes. 
 
 ## Notes  
 
 * You do not need to do all these in one sitting, especially when entering and QAing the plant data. Just make sure you save your changes locally. 
-* Follow the steps for QAing the rodent data to create a PR for the new plant data. Again, make sure to write intuitive commit messages every time you push *new* changes. 
 * The following tags for commit messages in Github should be used accordingly:  
     - `[major]` - use if you've made a breaking change (e.g changed the shape of a data table). This will update the version from 1.88.0 to 2.0, for example.  
     - `[minor]` - use if you're adding new data. This is the most commonly used. This will update the version from 1.88.0 to 1.89.0, for example.
