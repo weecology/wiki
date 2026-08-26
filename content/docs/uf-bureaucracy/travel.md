@@ -57,8 +57,9 @@ You do NOT need to wait for the request to be approved to start booking your tra
 
 ## Booking Travel
 
-With few exeptions, you must book all UF-related travel through UFGO's booking agent.
+With few exceptions, you must book all UF-related travel through UFGO's booking agent.
 
+### Booking for yourself
 * Log into UFGO (concursolutions.com).
 * Ensure you already have your profile (top right) set up with your contact info, P Card info, any loyalty programs you are a part of (airline, hotel, car rental), and your travel preferences.
 * Go to Travel (in the top menu bar).
@@ -66,6 +67,12 @@ With few exeptions, you must book all UF-related travel through UFGO's booking a
 * Book flights, hotel and/or rental car all on the same itinerary.
 * Under Method of Payment, choose AirCard for flights, P Card for everything else.
 * If you do not have a P Card, you can enter a personal card for purchasing hotels and rental cars. Or you can have a WEC staff member purchase them for you so you don't have to wait for the reimbursement.
+
+### Booking for another
+* If you have a P Card, you can book trips for volunteers (eg to a field site) and guests (eg interviewees).
+* Under TRIP SEARCH in the left pane, ensure you have selected 'Business Travel' and 'Book for guest'.
+* When completing the travel booking, select Guest for the type of traveler.
+* **Do not book travel for other UF employees.** The WEC staff prefers to book employees (that don't have their own P Card) themselves. Send the travel specifics to the staff and they will do it. Or, have the employee log in to concursolutions.com and book their own flight using the AirCard, then request the staff book the hotel/rental car.
 
 ## Travel Expense Report
 
@@ -95,7 +102,7 @@ Once all your travel is completed and you have all your receipts ready to upload
 * If everything is correct, click Submit Report. 
 
 ## Conference Travel
-The PCard may be used to pay registration fees for conferences, conventions, or seminars. This includes those where the registration fee includes meals or social events. Registration reciepts must be itemized so UF can determine whether meals/social events/lodging are included in the fee or can be charged separately.
+The PCard may be used to pay registration fees for conferences, conventions, or seminars. This includes those where the registration fee includes meals or social events. Registration receipts must be itemized so UF can determine whether meals/social events/lodging are included in the fee or can be charged separately.
 
 Optional events, those with separate fees, cannot be paid via PCard. Optional events must be paid for by the traveler.
 
