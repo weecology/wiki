@@ -14,10 +14,18 @@ These instructions get downloads from the cloud CRAN mirror. This is a minimum e
 * Install the [`cranlogs` package](https://github.com/r-hub/cranlogs) `install.packages("cranlogs")`
 * Run the `cran_downloads` function with your package name and date ranges if desired
 
+### In R
+
 ```r
-downloads = cranlogs::cran_downloads(packages = c("portalr"), from = "2020-02-26", to = "2020-08-16")
-total_downloads = sum(downloads$count)
+cranlogs::cran_downloads(packages = c("portalr"), from = "2020-02-26", to = "2020-08-16") |> dplyr::pull(count) |> sum()
 ```
+
+### Command line
+
+```sh
+Rscript -e 'cranlogs::cran_downloads(packages = c("portalr"), from = "2020-02-26", to = "2020-08-16") |> dplyr::pull(count) |> sum()'
+```
+
 
 ## Python
 
