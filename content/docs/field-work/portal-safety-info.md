@@ -7,6 +7,10 @@ summary: " "
 
 Remember the golden rule: the safety of people first. the safety of rodents second. the safety of the data is a distant third. 
 
+### WFR/First Aid/CPR
+Most minor emergencies will need to be handled by you at the moment they occur, as external help can be time consuming to get. Your first resource is the field truck and the equipment in it. Know where everything is on the [truck safety equipment list](https://www.dropbox.com/scl/fi/95uckzejqtnjyf5u14c42/Truck-Safety-Equipment-List.docx?rlkey=4zyaalrlvi6gt62di6u6fskkv&dl=0). Keep your first aid kit updated and know how to use it.
+Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed. 
+
 ### 9-1-1
 The site has cell phone coverage and you can call 9-1-1. Give them this information:
 Your Name
@@ -42,10 +46,6 @@ Hospital Telephone: 520-384-3541 or Toll Free: 1-844-696-3541 website: http://ww
 Bisbee: Copper Queen Community Hospital. 101 Cole Ave., Bisbee, AZ 85603
 Tel: 520.432.5383  https://cqch.org/
 
-### WFR/First Aid/CPR
-
-Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed. There is a first aid kit in the field truck. Feel free to add to it and charge to the project.
-
 ## Potential Hazards
 
 ### Snakebites
@@ -64,7 +64,7 @@ Bubonic Plague or other ectoparasite carried diseases: There are no incidents of
 
 ### Humans
 
-There are pepper spray guns in the driver and passenger door wells of the truck.
+There are pepper spray guns and a blinding spotlight in the driver and passenger door wells of the truck.
 
 If you feel unsafe sleeping at the site, there are other places to camp. RAs have used Rusty's RV Ranch, and there are campsites up the canyon past Portal. Sunny Flat and Stewart are open year-round and cost $20 a night each; make sure you have cash. They are about 3 miles up the canyon past the Portal store. The lodge is an option in a pinch. It closes for check in at 6. 
 

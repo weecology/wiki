@@ -19,16 +19,19 @@ A little maintenance and preparation goes a long way. Once you leave Tucson, you
   - Brakes - do they seem sluggish or noisy?
   - Warning lights - Be mindful of these - the only normal light is the regular maintenance light, which should come on about the time we need an annual inspection.
   - Windshield wipers - these are safety equipment! And they're cheap to replace, especially compared to the rest of the truck. If they start to be less-than-perfect, get them replaced ASAP at AutoZone/Napa/etc.
-* Refill out of stock or expired items in the first aid kit
+* Refill out of stock or expired items in the first aid kit or anything els on the truck equipment list.
 * Jumper cables are under the back seat. Use another vehicle if you have one available, otherwise use the:
 * Jumpstarter - this is a big red box that lives in the truck. You can use it to jumpstart the battery if it has recently died and the battery is healthy. Keep the jumpstart battery healthy by charging it in a hotel room whenever you get a chance.
 * Before you head back to Tucson, check for rodents trying to make a home in the truck.
 
-### Tool Kit
+### Equipment  
+Keep a copy of the [truck safety equipment list](https://www.dropbox.com/scl/fi/95uckzejqtnjyf5u14c42/Truck-Safety-Equipment-List.docx?rlkey=4zyaalrlvi6gt62di6u6fskkv&dl=0) on the clipboard in the truck. Make sure you know where everything on the list is stored in the truck. Make sure nothing is expired or damaged and that everything is accessible in an emergency.
+
+#### Tool Kit
 
 A tool kit lives in the bed of the truck. Feel free to stock it with whatever you need, and put it on your P Card (eg for repairing cattle fence, ramada, trap boxes, plot fences).
 
-### First aid kit
+#### First aid kit
 
 This lives in the backseat of the truck. Check it regularly for out of stock items and expired meds. This is covered by per diem (not P card).
 Oft-requested items from volunteers:

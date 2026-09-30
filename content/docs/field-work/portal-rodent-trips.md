@@ -60,12 +60,13 @@ You will need a lot of firewood to keep your volunteers warm and happy through t
 
 ## Guides
 
-The following rodent trapping-related field guides are in the Portal Dropbox for you to study. Also keep hard copies in the field to reference:
+The following rodent trapping-related field guides are in the Portal Dropbox for you to study. Also keep hard copies in the field to reference and give to your field technician/volunteers:
 
-* Dropbox/Portal/FieldGuides/Smammal_trapping_protocol.doc: instructional guide on the trap setting and data collection protocol  
-* Dropbox/Portal/FieldGuides/Trapping_map.pptx: a diagram of the plot locations and the trapping schedule (i.e., details on which plots you need to set traps in on each day, and where trap boxes need to be moved to for the second day of trapping)  
-* Dropbox/Portal/FieldGuides/Rodent_ID_cards.pdf: descriptive field guide on all the rodent species recorded on site. Use when uncertain about the identity of the animal on hand
-* Dropbox/Portal/FieldGuides/Sexing_Rodents.pdf: descriptive field guide to the correct sexing of rodent species  
+* Dropbox/Portal/FieldGuides/**Smammal_trapping_protocol.doc**: instructional guide on the trap setting and data collection protocol. Read this carefully. Have your technician read it. Keep a hard copy on the rodent clipboard. You can also keep hard copies for your undergraduate volunteers to read, and this will give them more context and better training. 
+* Dropbox/Portal/FieldGuides/**Trapping_map.pptx**: a diagram of the plot locations and the trapping schedule (i.e., details on which plots you need to set traps in on each day, and where trap boxes need to be moved to for the second day of trapping). Keep a hard copy on the rodent clipboard. It can be helpful to have extra copies of this to give to volunteers so they are better oriented.
+* Dropbox/Portal/FieldGuides/**Rodent Bag List**: a list of what to carry with you when collecting traps and processing rodents. Keep a hard copy on the rodent clipboard. Use this to remember what you may need to restock before each trip.
+* Dropbox/Portal/FieldGuides/**Rodent_ID_cards.pdf**: descriptive field guide on all the rodent species recorded on site. Use when uncertain about the identity of the animal on hand. Keep a hard copy on the rodent clipboard.
+* Dropbox/Portal/FieldGuides/**Sexing_Rodents.pdf**: descriptive field guide to the correct sexing of rodent species.  
 
 ## Post-trip Duties 
 
