@@ -225,6 +225,46 @@ Type 'q()' to quit R.
 
 Once this is set up, you can install or update packages the usual way (e.g. with `install.packages` or `devtools::install_github`).
 
+
+#### **Issues when installing R packages**
+
+**The Problem:** Source compilation of `units` (and related packages like `sf`, `stars`) fails on HiPerGator because the system's `udunits2` library wasn't built with `-fexceptions`.
+
+**What Worked:** Using the RSPM **pre-compiled binary** URL for RHEL9:
+
+```{r}
+install.packages("units", repos = c(CRAN = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))
+```
+
+This skips compilation entirely by downloading binaries built for HiPerGator's OS.
+**What Didn't Work:**
+- The base URL `https://packagemanager.posit.co/` 
+— no valid package index found
+- Source compilation — blocked by the `udunits2` system library issue
+
+**To make it permanent**, add this to `~/.Renviron`, but double-check it's active with `getOption("repos")` before installing.
+
+
+## Using VSCODE on hipergator
+
+Vscode is a great development environment for many languages (python, java, bash), and allows powerful integration with github copilot and other debugging tools. The docs on hipergator [hint](https://help.rc.ufl.edu/doc/SSH_Using_VS_Code) at how to do this, but don't make it clear how to check out a node and develop with those resources. We can use [vscode tunnels](https://code.visualstudio.com/docs/remote/tunnels) to do this easily. 
+
+Start by creating a SLURM script to get a development node. In this case, I want a GPU node.
+
+configure: error: The udunits2 library does not support exception propagation. Please reinstall it with -fexceptions enabled.
+ERROR: configuration failed for package ‘units’
+
+install.packages("units", repos = c(CRAN = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))
+
+In .Renviron
+options(repos = c(RSPM = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))
+but stil need to make sure RSPM is then used as the default repo
+
+
+
+https://cran4linux.github.io/rspm/
+  
+  
 ## Re-writing your code to take advantage of multiple cores. 
 By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code.
 
