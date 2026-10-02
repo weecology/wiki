@@ -225,6 +225,25 @@ Type 'q()' to quit R.
 
 Once this is set up, you can install or update packages the usual way (e.g. with `install.packages` or `devtools::install_github`).
 
+
+#### Issues when installing R packages
+
+It is faster and easier to install binary packages (because they don't need to use anything else installed on the HPC, which can get tricky). To do this we installing packages using the RStudio Package Manager (RSPM).
+
+```
+install.packages("units", repos = c(CRAN = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))
+```
+
+This skips compilation entirely by downloading binaries built for HiPerGator's OS.
+
+
+To make it permanent, add this to `~/.Renviron`, but double-check it's active with `getOption("repos")` before installing. 
+`options(repos = c(RSPM = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))`
+
+
+Further reading: https://cran4linux.github.io/rspm/
+  
+  
 ## Re-writing your code to take advantage of multiple cores. 
 By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code.
 
