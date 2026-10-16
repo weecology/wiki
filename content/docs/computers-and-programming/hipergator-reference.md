@@ -228,17 +228,13 @@ Once this is set up, you can install or update packages the usual way (e.g. with
 
 #### Issues when installing R packages
 
-It is faster and easier to install binary packages (because they don't need to use anything else installed on the HPC, which can get tricky). To do this we installing packages using the RStudio Package Manager (RSPM).
+It is faster and easier to install binary packages (because they don't need to use anything else installed on the HPC, which can get tricky). To do this we typically install packages on the HiPerGator using the RStudio Package Manager (RSPM).
 
 ```
 install.packages("units", repos = c(CRAN = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))
 ```
 
-This skips compilation entirely by downloading binaries built for HiPerGator's OS.
-
-
-To make it permanent, add this to `~/.Renviron`, but double-check it's active with `getOption("repos")` before installing. 
-`options(repos = c(RSPM = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))`
+To set R to always use the repository when running on the HiPerGator add the following text to `~/.Renviron`: `.options(repos = c(RSPM = "https://packagemanager.posit.co/cran/__linux__/rhel9/latest"))`. To check if this is working open R and run `getOption("repos")` and make sure the posit url above is shown.
 
 
 Further reading: https://cran4linux.github.io/rspm/
